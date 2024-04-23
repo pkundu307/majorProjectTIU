@@ -2,15 +2,20 @@ const express = require('express')
 const mongoose = require('mongoose')
 const cors=require('cors')
 const brandsRouter = require('./routes/Brands')
+const productsRouter = require('./routes/Products')
+const categoriesRouter =require('./routes/Categories')
 
 
 const server = express()
 
 server.use(cors({
-
+exposedHeaders:['X-Total-Count']
 }))
 server.use(express.json())
 server.use('/brands',brandsRouter.router)
+server.use('./products',productsRouter.router)
+server.use('./categories',categoriesRouter.router)
+
 
 main().catch(err=>console.log(err))
 
