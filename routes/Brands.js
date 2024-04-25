@@ -4,6 +4,7 @@ const {fetchBrands,createBrands}= require('../controller/Brand')
 
 const router = express.Router()
 
-router.get('/',fetchBrands).post('/',createBrands);
+router.get('/getall',fetchBrands)
+router.post('/',createBrands);
 
 exports.router =router
