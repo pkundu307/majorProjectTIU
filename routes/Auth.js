@@ -1,9 +1,8 @@
-const express=require('express')
+const express = require('express');
+const { createUser, loginUser } = require('../controller/Auth');
 
-const {createUser,loginUser}=require('../controller/Auth')
+const router = express.Router();
+//  /auth is already added in base path
+router.post('/signup', createUser).post('/login', loginUser);
 
-const router=express.Router()
-
-router.post('/signup',createUser).post('/login',loginUser)
-
-exports.router=router
+exports.router = router;
