@@ -10,12 +10,12 @@
       "stock": 0,
       "brand": "Apple",
       "category": "smartphones",
-      "thumbnail": "https://trak.in/wp-content/uploads/2020/04/EUc0FJPXsAAnID0-1-1024x576.jpeg",
+      "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
       "images": [
-        "https://i.pinimg.com/originals/cf/93/62/cf936218168ddefdef5efab6562c748c.png",
-        "https://i.pinimg.com/originals/cf/93/62/cf936218168ddefdef5efab6562c748c.png",
-        "https://i.pinimg.com/originals/cf/93/62/cf936218168ddefdef5efab6562c748c.png",
-        "https://i.pinimg.com/originals/cf/93/62/cf936218168ddefdef5efab6562c748c.png"
+        "https://i.dummyjson.com/data/products/1/1.jpg",
+        "https://i.dummyjson.com/data/products/1/2.jpg",
+        "https://i.dummyjson.com/data/products/1/3.jpg",
+        "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
       ],
       "deleted": true
     },
@@ -29,12 +29,12 @@
       "stock": 34,
       "brand": "Apple",
       "category": "smartphones",
-      "thumbnail": "https://images.indianexpress.com/2017/09/iphone-x-200.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
       "images": [
-        "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/790180925/790180925_0_MC/df45870b26404969b8e187b4dffdc763.jpg",
-        "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/790180925/790180925_0_MC/df45870b26404969b8e187b4dffdc763.jpg",
-        "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/790180925/790180925_0_MC/df45870b26404969b8e187b4dffdc763.jpg",
-        "https://reimg-teknosa-cloud-prod.mncdn.com/mnresize/600/600/productimage/790180925/790180925_0_MC/df45870b26404969b8e187b4dffdc763.jpg"
+        "https://i.dummyjson.com/data/products/2/1.jpg",
+        "https://i.dummyjson.com/data/products/2/2.jpg",
+        "https://i.dummyjson.com/data/products/2/3.jpg",
+        "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
       ],
       "deleted": true
     },
@@ -48,9 +48,9 @@
       "stock": 36,
       "brand": "Samsung",
       "category": "smartphones",
-      "thumbnail": "https://admin.hyperce.io/assets/thumbnail_12_preview.jpg?w=800",
+      "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
       "images": [
-        "https://imageio.forbes.com/blogs-images/gordonkelly/files/2018/08/Screenshot-2018-08-10-at-03.58.50.png?height=474&width=711&fit=bounds"
+        "https://i.dummyjson.com/data/products/3/1.jpg"
       ],
       "deleted": true
     },
@@ -64,12 +64,12 @@
       "stock": 123,
       "brand": "OPPO",
       "category": "smartphones",
-      "thumbnail": "https://www.oppo.com/content/dam/oppo/product-asset-library/f19/f19-overview-v1/v1/assets/chunk6-img2-1920.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
       "images": [
-        "https://opsg-img-cdn-gl.heytapimg.com/epb/202207/07/TXepUYlNs7nsh4GQ.png?x-amz-process=image/format,webp/quality,Q_80",
-        "https://opsg-img-cdn-gl.heytapimg.com/epb/202207/07/TXepUYlNs7nsh4GQ.png?x-amz-process=image/format,webp/quality,Q_80",
-        "https://opsg-img-cdn-gl.heytapimg.com/epb/202207/07/TXepUYlNs7nsh4GQ.png?x-amz-process=image/format,webp/quality,Q_80",
-        "https://opsg-img-cdn-gl.heytapimg.com/epb/202207/07/TXepUYlNs7nsh4GQ.png?x-amz-process=image/format,webp/quality,Q_80"
+        "https://i.dummyjson.com/data/products/4/1.jpg",
+        "https://i.dummyjson.com/data/products/4/2.jpg",
+        "https://i.dummyjson.com/data/products/4/3.jpg",
+        "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
       ]
     },
     {
@@ -82,11 +82,11 @@
       "stock": 32,
       "brand": "Huawei",
       "category": "smartphones",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6UR-9NSx1H_f735-jxcxLQHDt82Blz-f-1Oa3xIxD6Q&s",
+      "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
       "images": [
-        "https://i.gadgets360cdn.com/products/large/1553612275_635_huawei_p30.jpg?downsize=*:360",
-        "https://i.gadgets360cdn.com/products/large/1553612275_635_huawei_p30.jpg?downsize=*:360",
-        "https://i.gadgets360cdn.com/products/large/1553612275_635_huawei_p30.jpg?downsize=*:360"
+        "https://i.dummyjson.com/data/products/5/1.jpg",
+        "https://i.dummyjson.com/data/products/5/2.jpg",
+        "https://i.dummyjson.com/data/products/5/3.jpg"
       ]
     },
     {
@@ -99,12 +99,12 @@
       "stock": 83,
       "brand": "Apple",
       "category": "laptops",
-      "thumbnail": "https://5.imimg.com/data5/SELLER/Default/2021/1/WD/IM/SX/18942538/new-apple-macbook-pro-with-apple-m1-chip-13-inch-8gb-ram-256gb-ssd--500x500.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
       "images": [
-        "https://www.cnet.com/a/img/resize/056f1a9455e54ccf53b8fe2549290345b7e15c09/hub/2021/10/23/076234af-50b2-4364-ab44-1bc474d41b10/macbook-pro-2021-cnet-review-10.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "https://www.cnet.com/a/img/resize/056f1a9455e54ccf53b8fe2549290345b7e15c09/hub/2021/10/23/076234af-50b2-4364-ab44-1bc474d41b10/macbook-pro-2021-cnet-review-10.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "https://www.cnet.com/a/img/resize/056f1a9455e54ccf53b8fe2549290345b7e15c09/hub/2021/10/23/076234af-50b2-4364-ab44-1bc474d41b10/macbook-pro-2021-cnet-review-10.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "https://www.cnet.com/a/img/resize/056f1a9455e54ccf53b8fe2549290345b7e15c09/hub/2021/10/23/076234af-50b2-4364-ab44-1bc474d41b10/macbook-pro-2021-cnet-review-10.jpg?auto=webp&fit=crop&height=675&width=1200"
+        "https://i.dummyjson.com/data/products/6/1.png",
+        "https://i.dummyjson.com/data/products/6/2.jpg",
+        "https://i.dummyjson.com/data/products/6/3.png",
+        "https://i.dummyjson.com/data/products/6/thumbnail.png"
       ]
     },
     {
@@ -117,12 +117,12 @@
       "stock": 50,
       "brand": "Samsung",
       "category": "laptops",
-      "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/in/2302/feature/in-feature-galaxy-book3-pro-534898929?$FB_TYPE_A_MO_JPG$",
+      "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
       "images": [
-        "https://images-cdn.ubuy.co.in/633ff305f9d3d8187c709cf5-samsung-galaxy-book-pro-intel-evo.jpg",
-        "https://images-cdn.ubuy.co.in/633ff305f9d3d8187c709cf5-samsung-galaxy-book-pro-intel-evo.jpg",
-        "https://images-cdn.ubuy.co.in/633ff305f9d3d8187c709cf5-samsung-galaxy-book-pro-intel-evo.jpg",
-        "https://images-cdn.ubuy.co.in/633ff305f9d3d8187c709cf5-samsung-galaxy-book-pro-intel-evo.jpg"
+        "https://i.dummyjson.com/data/products/7/1.jpg",
+        "https://i.dummyjson.com/data/products/7/2.jpg",
+        "https://i.dummyjson.com/data/products/7/3.jpg",
+        "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
       ]
     },
     {
@@ -135,13 +135,13 @@
       "stock": 68,
       "brand": "Microsoft Surface",
       "category": "laptops",
-      "thumbnail": "https://images-cdn.ubuy.co.in/64d4cb4ba203fa60c62b4a2d-microsoft-surface-laptop-4-15.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
       "images": [
-        "https://techcommunity.microsoft.com/t5/image/serverpage/image-id/272481i3CADA8AE37DE4503/image-size/large?v=v2&px=999",
-        "https://techcommunity.microsoft.com/t5/image/serverpage/image-id/272481i3CADA8AE37DE4503/image-size/large?v=v2&px=999",
-        "https://techcommunity.microsoft.com/t5/image/serverpage/image-id/272481i3CADA8AE37DE4503/image-size/large?v=v2&px=999",
-        "https://techcommunity.microsoft.com/t5/image/serverpage/image-id/272481i3CADA8AE37DE4503/image-size/large?v=v2&px=999",
-        "https://techcommunity.microsoft.com/t5/image/serverpage/image-id/272481i3CADA8AE37DE4503/image-size/large?v=v2&px=999"
+        "https://i.dummyjson.com/data/products/8/1.jpg",
+        "https://i.dummyjson.com/data/products/8/2.jpg",
+        "https://i.dummyjson.com/data/products/8/3.jpg",
+        "https://i.dummyjson.com/data/products/8/4.jpg",
+        "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
       ]
     },
     {
@@ -154,13 +154,13 @@
       "stock": 96,
       "brand": "Infinix",
       "category": "laptops",
-      "thumbnail": "https://images.news18.com/ibnlive/uploads/2022/01/infinix-inbook-x2.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
       "images": [
-        "https://infinix-staging-s3.s3.ap-south-1.amazonaws.com/media/qbkp2nu3/inbook-black-is-out.jpg",
-        "https://infinix-staging-s3.s3.ap-south-1.amazonaws.com/media/qbkp2nu3/inbook-black-is-out.jpg",
-        "https://infinix-staging-s3.s3.ap-south-1.amazonaws.com/media/qbkp2nu3/inbook-black-is-out.jpg",
-        "https://infinix-staging-s3.s3.ap-south-1.amazonaws.com/media/qbkp2nu3/inbook-black-is-out.jpg",
-        "https://infinix-staging-s3.s3.ap-south-1.amazonaws.com/media/qbkp2nu3/inbook-black-is-out.jpg"
+        "https://i.dummyjson.com/data/products/9/1.jpg",
+        "https://i.dummyjson.com/data/products/9/2.png",
+        "https://i.dummyjson.com/data/products/9/3.png",
+        "https://i.dummyjson.com/data/products/9/4.jpg",
+        "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
       ]
     },
     {
@@ -173,12 +173,12 @@
       "stock": 89,
       "brand": "HP Pavilion",
       "category": "laptops",
-      "thumbnail": "https://apiv2.exceldisc.com/media/15057/pavilion-15-dk1056wm.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
       "images": [
-        "https://apiv2.exceldisc.com/media/15060/hp-pavilion-15-dk1056wm.jpg",
-        "https://apiv2.exceldisc.com/media/15060/hp-pavilion-15-dk1056wm.jpg",
-        "https://apiv2.exceldisc.com/media/15060/hp-pavilion-15-dk1056wm.jpg",
-        "https://apiv2.exceldisc.com/media/15060/hp-pavilion-15-dk1056wm.jpg"
+        "https://i.dummyjson.com/data/products/10/1.jpg",
+        "https://i.dummyjson.com/data/products/10/2.jpg",
+        "https://i.dummyjson.com/data/products/10/3.jpg",
+        "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
       ]
     },
     {
@@ -191,12 +191,12 @@
       "stock": 65,
       "brand": "Impression of Acqua Di Gio",
       "category": "fragrances",
-      "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.EWT8JPZ6MWTwi7ZILV98ZQHaHa&pid=Api&P=0&h=180",
+      "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
       "images": [
-        "https://tse3.mm.bing.net/th?id=OIP.uBMK6m_qPBs7cpKW6qFFhgHaFD&pid=Api&P=0&h=180",
-        "https://tse2.mm.bing.net/th?id=OIP.gK-A8XDjGnY90pl3A4BXigHaHI&pid=Api&P=0&h=180",
-        "https://tse4.mm.bing.net/th?id=OIP.zP0b6EvZCmlEamrqp1HCUAHaHa&pid=Api&P=0&h=180",
-        "https://tse2.mm.bing.net/th?id=OIP.m9hMEE_1GCAqUlgGnYq2TAHaHa&pid=Api&P=0&h=180"
+        "https://i.dummyjson.com/data/products/11/1.jpg",
+        "https://i.dummyjson.com/data/products/11/2.jpg",
+        "https://i.dummyjson.com/data/products/11/3.jpg",
+        "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
       ]
     },
     {
@@ -209,13 +209,13 @@
       "stock": 52,
       "brand": "Royal_Mirage",
       "category": "fragrances",
-      "thumbnail": "https://tse2.mm.bing.net/th?id=OIP.KLWGRhKBgkxgVm4NqkOIdwHaHa&pid=Api&P=0&h=180",
+      "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
       "images": [
-        "https://tse3.mm.bing.net/th?id=OIP.K4Y8bFKJvmi3peYwFp_x9gHaJQ&pid=Api&P=0&h=180",
-        "https://tse2.mm.bing.net/th?id=OIP.taoHjW64ACPn26aiIb1_lAHaIz&pid=Api&P=0&h=180",
-        "https://tse4.mm.bing.net/th?id=OIP.THCj6y9EN49vSOfPVBzZ1AHaHa&pid=Api&P=0&h=180",
-        "https://tse3.mm.bing.net/th?id=OIP.BXSK4RUK5Ml0dJPDWyLRMgHaHg&pid=Api&P=0&h=180",
-        "https://piimages.parfumo.de/6/5/86668_299cff6c4b9eb53d4affb8238cebe07d_royal_mirage_paradise.jpg"
+        "https://i.dummyjson.com/data/products/12/1.jpg",
+        "https://i.dummyjson.com/data/products/12/2.jpg",
+        "https://i.dummyjson.com/data/products/12/3.png",
+        "https://i.dummyjson.com/data/products/12/4.jpg",
+        "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
       ]
     },
     {
@@ -228,13 +228,13 @@
       "stock": 61,
       "brand": "Fog Scent Xpressio",
       "category": "fragrances",
-      "thumbnail": "https://tse2.mm.bing.net/th?id=OIP.RUxTuPxwJHIL0Uqx4L_lSwHaHa&pid=Api&P=0&h=180",
+      "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.webp",
       "images": [
-        "https://tse2.mm.bing.net/th?id=OIP.bHguy5ADaziRtpSQkcDM7wHaEK&pid=Api&P=0&h=180",
-        "https://5.imimg.com/data5/GP/YI/MY-28005146/fogg-scent-xpressio-edp-for-men-90ml-500x500.png",
-        "https://5.imimg.com/data5/SELLER/Default/2022/2/OS/ZB/ZA/112380119/fogg-scent-xpressio-eau-de-perfume-1000x1000.jpg",
-        "https://tse2.mm.bing.net/th?id=OIP.i9Q0hChQC-UysWPR-j-1MAHaDt&pid=Api&P=0&h=180",
-        "https://tse1.mm.bing.net/th?id=OIP.FWCRuwvVc3yL25PJfzXlaQHaHa&pid=Api&P=0&h=180"
+        "https://i.dummyjson.com/data/products/13/1.jpg",
+        "https://i.dummyjson.com/data/products/13/2.png",
+        "https://i.dummyjson.com/data/products/13/3.jpg",
+        "https://i.dummyjson.com/data/products/13/4.jpg",
+        "https://i.dummyjson.com/data/products/13/thumbnail.webp"
       ]
     },
     {
@@ -247,12 +247,12 @@
       "stock": 114,
       "brand": "Al Munakh",
       "category": "fragrances",
-      "thumbnail": "https://tse2.mm.bing.net/th?id=OIP.cD-WEVEEe0UtbNtldSIrNgHaHa&pid=Api&P=0&h=180",
+      "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
       "images": [
-        "https://tse4.mm.bing.net/th?id=OIP.6YfHYUb8OTACC9Gbygm7mQHaHa&pid=Api&P=0&h=180",
-        "https://tse2.mm.bing.net/th?id=OIP.V6oV7MfOHn3YlwFoSDAwYgHaHS&pid=Api&P=0&h=180",
-        "https://tse1.mm.bing.net/th?id=OIP.AJwrsqbuxNqgZwD7DOZY2wHaHa&pid=Api&P=0&h=180",
-        "https://tse4.mm.bing.net/th?id=OIP.SOeBEquR2r9iV0ylXSOOEgHaJ4&pid=Api&P=0&h=180"
+        "https://i.dummyjson.com/data/products/14/1.jpg",
+        "https://i.dummyjson.com/data/products/14/2.jpg",
+        "https://i.dummyjson.com/data/products/14/3.jpg",
+        "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
       ]
     },
     {
@@ -265,13 +265,13 @@
       "stock": 105,
       "brand": "Lord - Al-Rehab",
       "category": "fragrances",
-      "thumbnail": "https://tse4.mm.bing.net/th?id=OIP.CFgtHLmOCF0dZAwoqqPH4wHaHS&pid=Api&P=0&h=180",
+      "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
       "images": [
-        "https://tse2.mm.bing.net/th?id=OIP.s_GbVby9eLF4Gockz74JGwHaHa&pid=Api&P=0&h=180",
-        "https://cdn.webshopapp.com/shops/29471/files/11656280/650x750x2/al-rehab-superman-eau-de-parfum-al-rehab-50ml.jpg",
-        "https://tse4.mm.bing.net/th?id=OIP.fMy2yBUdT4xEsRZbaAVSqwHaHa&pid=Api&P=0&h=180",
-        "https://tse3.mm.bing.net/th?id=OIP.V090OoBigVbjDDYdluv74QHaIi&pid=Api&P=0&h=180",
-        "https://tse4.mm.bing.net/th?id=OIP.OVDYymuftL_xaCO4k6-xcAHaHa&pid=Api&P=0&h=180"
+        "https://i.dummyjson.com/data/products/15/1.jpg",
+        "https://i.dummyjson.com/data/products/15/2.jpg",
+        "https://i.dummyjson.com/data/products/15/3.jpg",
+        "https://i.dummyjson.com/data/products/15/4.jpg",
+        "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
       ]
     },
     {
@@ -284,13 +284,13 @@
       "stock": 110,
       "brand": "L'Oreal Paris",
       "category": "skincare",
-      "thumbnail": "https://tse2.mm.bing.net/th?id=OIP.ug9Ct_RtCvHiqqpe4yL2wgHaJQ&pid=Api&P=0&h=180",
+      "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
       "images": [
-        "https://eg.jumia.is/cms/external/pet/BR501ST0AVQPKNAFAMZ/73174f0713b762a53806ebb3a4841ce8.jpg",
-        "https://m.media-amazon.com/images/I/41ZhA2mTwFL.jpg",
-        "https://media.naheed.pk/catalog/product/cache/49dcd5d85f0fa4d590e132d0368d8132/1/2/1228819-5.jpg",
-        "https://res.cloudinary.com/walmart-labs/image/upload/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750955284362L.jpg",
-        "https://gphb01pdazurefileshare.blob.core.windows.net/sys-master-hybris-media/h74/hcd/14350323941406/618164-l-oreal-paris-revitalift-1-5-hyaluronic-acid-plumping-serum-30ml-1-800Wx800H"
+        "https://i.dummyjson.com/data/products/16/1.png",
+        "https://i.dummyjson.com/data/products/16/2.webp",
+        "https://i.dummyjson.com/data/products/16/3.jpg",
+        "https://i.dummyjson.com/data/products/16/4.jpg",
+        "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
       ]
     },
     {
@@ -303,12 +303,12 @@
       "stock": 78,
       "brand": "Hemani Tea",
       "category": "skincare",
-      "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.hplQpdFCdtqZvoMpCN-PtgHaHa&pid=Api&P=0&h=180",
+      "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg",
       "images": [
-        "https://tse3.mm.bing.net/th?id=OIP.STcSsU6Q7JDQ5VOIsMHnvQAAAA&pid=Api&P=0&h=180",
-        "https://tse4.mm.bing.net/th?id=OIP.ZE7972-ncmkB1pbQjpJXvAHaHa&pid=Api&P=0&h=180",
-        "https://tse2.mm.bing.net/th?id=OIP.a1UxlK6scAMTxB3grznumgHaHa&pid=Api&P=0&h=180",
-        "https://tse4.mm.bing.net/th?id=OIP.y5WVhmqbL2LREYag1YQE9wHaHa&pid=Api&P=0&h=180"
+        "https://i.dummyjson.com/data/products/17/1.jpg",
+        "https://i.dummyjson.com/data/products/17/2.jpg",
+        "https://i.dummyjson.com/data/products/17/3.jpg",
+        "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
       ]
     },
     {
@@ -321,13 +321,13 @@
       "stock": 88,
       "brand": "Dermive",
       "category": "skincare",
-      "thumbnail": "https://tse4.mm.bing.net/th?id=OIP.lDuxhIw1W7JxNXsi-Zb2aQHaFi&pid=Api&P=0&h=180",
+      "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
       "images": [
-        "https://tse2.mm.bing.net/th?id=OIP.s-UrR4naRPBdS5uJy16dFwHaEK&pid=Api&P=0&h=180",
-        "https://tse4.mm.bing.net/th?id=OIP.ck_nNqGgJWCZABgilcSVlAHaD4&pid=Api&P=0&h=180",
-        "https://tse1.mm.bing.net/th?id=OIP.cTm6oroB2mJthDlUFjv1QQHaFj&pid=Api&P=0&h=180",
-        "https://i0.wp.com/shop.pharmaworld.pk/wp-content/uploads/2021/10/Dermive-Oil-Free_C.jpg?fit=600%2C609&ssl=1",
-        "https://1.bp.blogspot.com/-V7dZK2OYMOI/Vw53IjdOG3I/AAAAAAAAFZw/4xEOX-8Qso8i2siYFGx84bFkQpIRsXGtACLcB/s1600/20160325_155923.jpg"
+        "https://i.dummyjson.com/data/products/18/1.jpg",
+        "https://i.dummyjson.com/data/products/18/2.jpg",
+        "https://i.dummyjson.com/data/products/18/3.jpg",
+        "https://i.dummyjson.com/data/products/18/4.jpg",
+        "https://i.dummyjson.com/data/products/18/thumbnail.jpg"
       ]
     },
     {
@@ -340,12 +340,12 @@
       "stock": 54,
       "brand": "ROREC White Rice",
       "category": "skincare",
-      "thumbnail": "https://tse2.mm.bing.net/th?id=OIP.pfpd4UicJULJwObyHYSWlAHaHa&pid=Api&P=0&h=180",
+      "thumbnail": "https://i.dummyjson.com/data/products/19/thumbnail.jpg",
       "images": [
-        "https://tse1.mm.bing.net/th?id=OIP.C-S4WK8JEvs-3ZkOf7gH2wHaHa&pid=Api&P=0&h=180",
-        "https://tse4.mm.bing.net/th?id=OIP.ZvC9DYeNcLMMHuyWNg_KSgHaHa&pid=Api&P=0&h=180",
-        "https://tse2.mm.bing.net/th?id=OIP.ghxqpJq2Cfmx3ZxrELv5NQHaHa&pid=Api&P=0&h=180",
-        "https://tse2.mm.bing.net/th?id=OIP.UJZg4DLtc07wvsInLdULnQHaHa&pid=Api&P=0&h=180"
+        "https://i.dummyjson.com/data/products/19/1.jpg",
+        "https://i.dummyjson.com/data/products/19/2.jpg",
+        "https://i.dummyjson.com/data/products/19/3.png",
+        "https://i.dummyjson.com/data/products/19/thumbnail.jpg"
       ]
     },
     {
@@ -358,16 +358,15 @@
       "stock": 140,
       "brand": "Fair & Clear",
       "category": "skincare",
-      "thumbnail": "https://tse2.mm.bing.net/th?id=OIP.p34ONDfkTFs9YQGh9r_6zgHaHa&pid=Api&P=0&h=180",
+      "thumbnail": "https://i.dummyjson.com/data/products/20/thumbnail.jpg",
       "images": [
-        "https://tse1.mm.bing.net/th?id=OIP.LhAji9HaiE8mxJhz29_4DwHaHa&pid=Api&P=0&h=180",
-        "https://www.well-beingsecrets.com/wp-content/uploads/Clia-Skin-Lightening-Cream.jpg",
-        "https://tse2.mm.bing.net/th?id=OIP.eGAb2QtOxBmXMgz-aAgYIwHaHa&pid=Api&P=0&h=180",
-        "https://tse2.mm.bing.net/th?id=OIP.Kbc00sq-a9WKB-u8DmftLQHaE8&pid=Api&P=0&h=180",
-        "https://tse4.mm.bing.net/th?id=OIP.9d5NizNIJzoHM3sv58lIOQHaDt&pid=Api&P=0&h=180"
-]
+        "https://i.dummyjson.com/data/products/20/1.jpg",
+        "https://i.dummyjson.com/data/products/20/2.jpg",
+        "https://i.dummyjson.com/data/products/20/3.jpg",
+        "https://i.dummyjson.com/data/products/20/4.jpg",
+        "https://i.dummyjson.com/data/products/20/thumbnail.jpg"
+      ]
     },
-
     {
       "id": 21,
       "title": "- Daal Masoor 500 grams",
@@ -378,11 +377,11 @@
       "stock": 133,
       "brand": "Saaf & Khaas",
       "category": "groceries",
-      "thumbnail": "https://th.bing.com/th?id=OPAC.LYdRqKAs1FjirA474C474&w=592&h=550&o=5&dpr=1.3&pid=21.1",
+      "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.png",
       "images": [
-        "https://th.bing.com/th/id/OIP.Hxb4lUOf9kMEJU8Js5GMlwHaHa?rs=1&pid=ImgDetMain",
-        "https://th.bing.com/th/id/OIP.J7ym3L-j8rgxatVUyb4FXgHaHa?w=500&h=500&rs=1&pid=ImgDetMain",
-        "https://th.bing.com/th/id/OIP.g35E29Ouw5F1BEtT3LR77gHaHa?w=600&h=600&rs=1&pid=ImgDetMain"
+        "https://i.dummyjson.com/data/products/21/1.png",
+        "https://i.dummyjson.com/data/products/21/2.jpg",
+        "https://i.dummyjson.com/data/products/21/3.jpg"
       ]
     },
     {
@@ -395,11 +394,11 @@
       "stock": 146,
       "brand": "Bake Parlor Big",
       "category": "groceries",
-      "thumbnail": "https://grozar.pk/wp-content/uploads/2020/05/Kolson-Large-Elbow-Macaroni-400gm-671866149907-large.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/22/thumbnail.jpg",
       "images": [
-        "https://grozar.pk/wp-content/uploads/2019/07/kolson-ridged-elbow-macaroni-400gm.jpg",
-        "https://media.naheed.pk/catalog/product/cache/49dcd5d85f0fa4d590e132d0368d8132/1/1/1117337-2.jpg",
-        "https://media.naheed.pk/catalog/product/cache/49dcd5d85f0fa4d590e132d0368d8132/1/1/1117337-1.jpg"
+        "https://i.dummyjson.com/data/products/22/1.jpg",
+        "https://i.dummyjson.com/data/products/22/2.jpg",
+        "https://i.dummyjson.com/data/products/22/3.jpg"
       ]
     },
     {
@@ -412,13 +411,13 @@
       "stock": 26,
       "brand": "Baking Food Items",
       "category": "groceries",
-      "thumbnail": "https://m.media-amazon.com/images/I/719ORPCfOLL.SL1500.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/23/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/71KOQ08N93L.SL1500.jpg",
-        "https://m.media-amazon.com/images/I/61r-GIupy9L.SL1500.jpg",
-        "https://m.media-amazon.com/images/I/61iRpXGQyjL.SL1500.jpg",
-        "https://www.foodieflavours.com/wp-content/uploads/2012/02/Orange-15ml-570x708.jpg",
-        "https://ejuicecafe.com/wp-content/uploads/2017/12/fbt_ounce_peach_lemonade_grande.jpg"
+        "https://i.dummyjson.com/data/products/23/1.jpg",
+        "https://i.dummyjson.com/data/products/23/2.jpg",
+        "https://i.dummyjson.com/data/products/23/3.jpg",
+        "https://i.dummyjson.com/data/products/23/4.jpg",
+        "https://i.dummyjson.com/data/products/23/thumbnail.jpg"
       ]
     },
     {
@@ -431,13 +430,13 @@
       "stock": 113,
       "brand": "fauji",
       "category": "groceries",
-      "thumbnail": "https://kdhaka.com/wp-content/uploads/2021/01/kelloggs-muesli-Fruit-Nut-500g.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/24/thumbnail.jpg",
       "images": [
-        "https://images.heb.com/is/image/HEBGrocery/001773348",
-        "https://secure.ce-tescoassets.com/assets/HU/546/5051007108546/ShotType1_540x540.jpg",
-        "https://www.bigbasket.com/media/uploads/groot/images/2052021-4b71af9e-2.jpg",
-        "https://m.media-amazon.com/images/I/81EQvapxkkL.SX569.jpg",
-        "https://www.spencers.in/media/catalog/product/1/1/1134265.jpg"
+        "https://i.dummyjson.com/data/products/24/1.jpg",
+        "https://i.dummyjson.com/data/products/24/2.jpg",
+        "https://i.dummyjson.com/data/products/24/3.jpg",
+        "https://i.dummyjson.com/data/products/24/4.jpg",
+        "https://i.dummyjson.com/data/products/24/thumbnail.jpg"
       ]
     },
     {
@@ -450,13 +449,13 @@
       "stock": 47,
       "brand": "Dry Rose",
       "category": "groceries",
-      "thumbnail": "https://m.media-amazon.com/images/I/61hLxdlGVuL.SL1131.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/715IlPoEgxL.SL1000.jpg",
-        "https://m.media-amazon.com/images/I/71PCrmUEAGL.SL1500.jpg",
-        "https://m.media-amazon.com/images/I/71djIXXP3uL.SL1500.jpg",
-        "https://m.media-amazon.com/images/I/51tKu+UvgnL.SL1000.jpg",
-        "https://m.media-amazon.com/images/I/71rounvPh2L.SL1446.jpg"
+        "https://i.dummyjson.com/data/products/25/1.png",
+        "https://i.dummyjson.com/data/products/25/2.jpg",
+        "https://i.dummyjson.com/data/products/25/3.png",
+        "https://i.dummyjson.com/data/products/25/4.jpg",
+        "https://i.dummyjson.com/data/products/25/thumbnail.jpg"
       ]
     },
     {
@@ -469,14 +468,14 @@
       "stock": 131,
       "brand": "Boho Decor",
       "category": "home-decoration",
-      "thumbnail": "https://th.bing.com/th/id/OIP.V2_oAE94EKc6PWP2ye_HewHaHa?rs=1&pid=ImgDetMain",
+      "thumbnail": "https://i.dummyjson.com/data/products/26/thumbnail.jpg",
       "images": [
-        "https://i.etsystatic.com/20922697/r/il/399bf2/3017353562/il_1140xN.3017353562_tcux.jpg",
-        "https://i.pinimg.com/originals/a8/e0/b9/a8e0b9b04591bd1da253e8e315f08a61.jpg",
-        "https://i.pinimg.com/originals/2b/44/ee/2b44ee1a56bcd1a516a007078ce2bf25.jpg",
-        "https://th.bing.com/th/id/OIP.JBUQXHCAVUNuFbfwZu7RRwHaKe?w=496&h=702&rs=1&pid=ImgDetMain",
-        "https://i.etsystatic.com/20256441/c/2027/2027/0/624/il/3dea99/4321691589/il_600x600.4321691589_9yah.jpg",
-        "https://images-na.ssl-images-amazon.com/images/I/81ZH3%2BWLg8L.AC_SL1500.jpg"
+        "https://i.dummyjson.com/data/products/26/1.jpg",
+        "https://i.dummyjson.com/data/products/26/2.jpg",
+        "https://i.dummyjson.com/data/products/26/3.jpg",
+        "https://i.dummyjson.com/data/products/26/4.jpg",
+        "https://i.dummyjson.com/data/products/26/5.jpg",
+        "https://i.dummyjson.com/data/products/26/thumbnail.jpg"
       ]
     },
     {
@@ -489,13 +488,13 @@
       "stock": 17,
       "brand": "Flying Wooden",
       "category": "home-decoration",
-      "thumbnail": "https://i.pinimg.com/736x/98/b0/25/98b025d639a3d93c5390e9ff4fb6bc43--wood-working-cardinals.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.webp",
       "images": [
-        "https://felt.co.nz/user-images/itemuploads/u43450/i291813/o.jpg",
-        "https://i.pinimg.com/originals/f1/bd/93/f1bd9362bdb129e0147fb73d5e023cfb.jpg",
-        "https://i.etsystatic.com/36893820/r/il/b5e3d4/4579191074/il_794xN.4579191074_6ake.jpg",
-        "https://i.pinimg.com/originals/33/21/b6/3321b6175185186c63e9f5abbbe5fe8a.jpg",
-        "https://i.pinimg.com/originals/b6/5e/7e/b65e7e43cb393c1bbf3325c666629ea5.jpg"
+        "https://i.dummyjson.com/data/products/27/1.jpg",
+        "https://i.dummyjson.com/data/products/27/2.jpg",
+        "https://i.dummyjson.com/data/products/27/3.jpg",
+        "https://i.dummyjson.com/data/products/27/4.jpg",
+        "https://i.dummyjson.com/data/products/27/thumbnail.webp"
       ]
     },
     {
@@ -508,13 +507,13 @@
       "stock": 54,
       "brand": "LED Lights",
       "category": "home-decoration",
-      "thumbnail": "https://i.pinimg.com/736x/95/6d/77/956d7799d6f8d170d16bb30309e6243f.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/28/thumbnail.jpg",
       "images": [
-        "https://th.bing.com/th/id/OIP.nv-4N-tXopGycnJdAe2lUAHaJN?rs=1&pid=ImgDetMain",
-        "https://warisanlighting.com/wp-content/uploads/2016/06/3d-lamp-photo-12.jpg",
-        "https://i.pinimg.com/originals/61/87/71/618771fd6789bfcc802a129684de62ec.jpg",
-        "https://assets.rbl.ms/3585394/980x.jpg",
-        "https://th.bing.com/th/id/OIP.GJCjWEj2-5vBzfWOYU728AHaE8?rs=1&pid=ImgDetMain"
+        "https://i.dummyjson.com/data/products/28/1.jpg",
+        "https://i.dummyjson.com/data/products/28/2.jpg",
+        "https://i.dummyjson.com/data/products/28/3.png",
+        "https://i.dummyjson.com/data/products/28/4.jpg",
+        "https://i.dummyjson.com/data/products/28/thumbnail.jpg"
       ]
     },
     {
@@ -527,13 +526,13 @@
       "stock": 7,
       "brand": "luxury palace",
       "category": "home-decoration",
-      "thumbnail": "https://thumbs.dreamstime.com/b/traditionele-chinese-handcraft-sachet-16090473.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/29/thumbnail.webp",
       "images": [
-        "https://thumbs.dreamstime.com/z/chinese-handcraft-2490894.jpg",
-        "https://thumbs.dreamstime.com/b/chinese-new-years-decorations-festive-atmosphere-china-festival-50803351.jpg",
-        "https://thumbs.dreamstime.com/b/handcraft-2490889.jpg",
-        "https://c8.alamy.com/comp/CYYADE/china-beijing-traditional-chinese-handicrafts-traditional-souvenir-CYYADE.jpg",
-        "https://live.staticflickr.com/5147/5617484797_fe58a0dc24.jpg"
+        "https://i.dummyjson.com/data/products/29/1.jpg",
+        "https://i.dummyjson.com/data/products/29/2.jpg",
+        "https://i.dummyjson.com/data/products/29/3.webp",
+        "https://i.dummyjson.com/data/products/29/4.webp",
+        "https://i.dummyjson.com/data/products/29/thumbnail.webp"
       ]
     },
     {
@@ -546,12 +545,12 @@
       "stock": 54,
       "brand": "Golden",
       "category": "home-decoration",
-      "thumbnail": "https://i.etsystatic.com/10230542/r/il/5fe62e/2361409955/il_fullxfull.2361409955_etcx.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
       "images": [
-        "https://homebnc.com/homeimg/2018/12/37-key-holder-ideas-homebnc.jpg",
-        "https://www.liveenhanced.com/wp-content/uploads/2018/04/Big-Key-Wooden-diy-Key-Holder-design.jpg",
-        "https://i.pinimg.com/originals/06/f8/aa/06f8aa5c8354b44998efe06950de2e88.jpg",
-        "https://i.pinimg.com/originals/82/f2/e7/82f2e785bed2e20d00b95a5cafa24647.jpg"
+        "https://i.dummyjson.com/data/products/30/1.jpg",
+        "https://i.dummyjson.com/data/products/30/2.jpg",
+        "https://i.dummyjson.com/data/products/30/3.jpg",
+        "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
       ]
     },
     {
@@ -564,13 +563,13 @@
       "stock": 140,
       "brand": "Furniture Bed Set",
       "category": "furniture",
-      "thumbnail": "http://surl.li/sroym",
+      "thumbnail": "https://i.dummyjson.com/data/products/31/thumbnail.jpg",
       "images": [
-        "http://surl.li/srozd",
-        "http://surl.li/sroxx",
-        "http://surl.li/sroxr",
-        "http://surl.li/sroxc"
-        
+        "https://i.dummyjson.com/data/products/31/1.jpg",
+        "https://i.dummyjson.com/data/products/31/2.jpg",
+        "https://i.dummyjson.com/data/products/31/3.jpg",
+        "https://i.dummyjson.com/data/products/31/4.jpg",
+        "https://i.dummyjson.com/data/products/31/thumbnail.jpg"
       ]
     },
     {
@@ -583,12 +582,12 @@
       "stock": 30,
       "brand": "Ratttan Outdoor",
       "category": "furniture",
-      "thumbnail": "http://surl.li/srozt",
+      "thumbnail": "https://i.dummyjson.com/data/products/32/thumbnail.jpg",
       "images": [
-        "http://surl.li/srpal",
-        "http://surl.li/srpay",
-        "http://surl.li/srpcs",
-        "http://surl.li/srpdj"
+        "https://i.dummyjson.com/data/products/32/1.jpg",
+        "https://i.dummyjson.com/data/products/32/2.jpg",
+        "https://i.dummyjson.com/data/products/32/3.jpg",
+        "https://i.dummyjson.com/data/products/32/thumbnail.jpg"
       ]
     },
     {
@@ -601,13 +600,13 @@
       "stock": 106,
       "brand": "Kitchen Shelf",
       "category": "furniture",
-      "thumbnail": "http://surl.li/srpie",
+      "thumbnail": "https://i.dummyjson.com/data/products/33/thumbnail.jpg",
       "images": [
-        "http://surl.li/srpie",
-        "http://surl.li/srpjj",
-        "http://surl.li/srpie",
-        "http://surl.li/srpkp",
-        "http://surl.li/srplk"
+        "https://i.dummyjson.com/data/products/33/1.jpg",
+        "https://i.dummyjson.com/data/products/33/2.jpg",
+        "https://i.dummyjson.com/data/products/33/3.jpg",
+        "https://i.dummyjson.com/data/products/33/4.jpg",
+        "https://i.dummyjson.com/data/products/33/thumbnail.jpg"
       ]
     },
     {
@@ -620,13 +619,13 @@
       "stock": 136,
       "brand": "Multi Purpose",
       "category": "furniture",
-      "thumbnail": "http://surl.li/srpmd",
+      "thumbnail": "https://i.dummyjson.com/data/products/34/thumbnail.jpg",
       "images": [
-        "http://surl.li/srpmn",
-        "http://surl.li/srpmn",
-        "http://surl.li/srpnx",
-        "http://surl.li/srpod",
-        "http://surl.li/srpox"
+        "https://i.dummyjson.com/data/products/34/1.jpg",
+        "https://i.dummyjson.com/data/products/34/2.jpg",
+        "https://i.dummyjson.com/data/products/34/3.jpg",
+        "https://i.dummyjson.com/data/products/34/4.jpg",
+        "https://i.dummyjson.com/data/products/34/thumbnail.jpg"
       ]
     },
     {
@@ -639,13 +638,13 @@
       "stock": 68,
       "brand": "AmnaMart",
       "category": "furniture",
-      "thumbnail": "http://surl.li/srpps",
+      "thumbnail": "https://i.dummyjson.com/data/products/35/thumbnail.jpg",
       "images": [
-        "http://surl.li/srpqr",
-        "http://surl.li/srpui",
-        "http://surl.li/srpui",
-        "http://surl.li/srpvy",
-        "http://surl.li/srpwp"
+        "https://i.dummyjson.com/data/products/35/1.jpg",
+        "https://i.dummyjson.com/data/products/35/2.jpg",
+        "https://i.dummyjson.com/data/products/35/3.jpg",
+        "https://i.dummyjson.com/data/products/35/4.jpg",
+        "https://i.dummyjson.com/data/products/35/thumbnail.jpg"
       ]
     },
     {
@@ -658,13 +657,13 @@
       "stock": 39,
       "brand": "Professional Wear",
       "category": "tops",
-      "thumbnail": "http://surl.li/srpww",
+      "thumbnail": "https://i.dummyjson.com/data/products/36/thumbnail.jpg",
       "images": [
-        "http://surl.li/srpxe",
-        "http://surl.li/srpyp",
-        "http://surl.li/srpyp",
-        "http://surl.li/srpzf",
-        "http://surl.li/srqfk"
+        "https://i.dummyjson.com/data/products/36/1.jpg",
+        "https://i.dummyjson.com/data/products/36/2.webp",
+        "https://i.dummyjson.com/data/products/36/3.webp",
+        "https://i.dummyjson.com/data/products/36/4.jpg",
+        "https://i.dummyjson.com/data/products/36/thumbnail.jpg"
       ]
     },
     {
@@ -677,13 +676,13 @@
       "stock": 107,
       "brand": "Soft Cotton",
       "category": "tops",
-      "thumbnail": "http://surl.li/srqfw",
+      "thumbnail": "https://i.dummyjson.com/data/products/37/thumbnail.jpg",
       "images": [
-        "http://surl.li/srqgf",
-        "http://surl.li/srqgr",
-        "http://surl.li/srqgx",
-        "http://surl.li/srqhb",
-        "http://surl.li/srqhn"
+        "https://i.dummyjson.com/data/products/37/1.jpg",
+        "https://i.dummyjson.com/data/products/37/2.jpg",
+        "https://i.dummyjson.com/data/products/37/3.jpg",
+        "https://i.dummyjson.com/data/products/37/4.jpg",
+        "https://i.dummyjson.com/data/products/37/thumbnail.jpg"
       ]
     },
     {
@@ -696,12 +695,12 @@
       "stock": 20,
       "brand": "Soft Cotton",
       "category": "tops",
-      "thumbnail": "http://surl.li/srqjb",
+      "thumbnail": "https://i.dummyjson.com/data/products/38/thumbnail.jpg",
       "images": [
-        "http://surl.li/srqji",
-        "http://surl.li/srqju",
-        "http://surl.li/srqkd",
-        "http://surl.li/srqkm"
+        "https://i.dummyjson.com/data/products/38/1.png",
+        "https://i.dummyjson.com/data/products/38/2.jpg",
+        "https://i.dummyjson.com/data/products/38/3.jpg",
+        "https://i.dummyjson.com/data/products/38/4.jpg"
       ]
     },
     {
@@ -714,13 +713,13 @@
       "stock": 55,
       "brand": "Top Sweater",
       "category": "tops",
-      "thumbnail": "http://surl.li/srqky",
+      "thumbnail": "https://i.dummyjson.com/data/products/39/thumbnail.jpg",
       "images": [
-        "https://shorturl.at/qrST0",
-        "https://shorturl.at/myBJL",
-        "https://shorturl.at/elvAV",
-        "https://shorturl.at/mQRT1",
-        "https://shorturl.at/anR09"
+        "https://i.dummyjson.com/data/products/39/1.jpg",
+        "https://i.dummyjson.com/data/products/39/2.jpg",
+        "https://i.dummyjson.com/data/products/39/3.jpg",
+        "https://i.dummyjson.com/data/products/39/4.jpg",
+        "https://i.dummyjson.com/data/products/39/thumbnail.jpg"
       ]
     },
     {
@@ -733,200 +732,198 @@
       "stock": 84,
       "brand": "Top Sweater",
       "category": "tops",
-      "thumbnail": "https://tinyurl.com/4m2kyp42",
+      "thumbnail": "https://i.dummyjson.com/data/products/40/thumbnail.jpg",
       "images": [
-        "https://tinyurl.com/562pcp6h",
-        "https://tinyurl.com/4br5exhz",
-        "https://tinyurl.com/ye2y3xmk",
-        "https://tinyurl.com/mr2v98sz"
-]
-},
-{
-  "id": 41,
-  "title": "NIGHT SUIT",
-  "description": "NIGHT SUIT RED MICKY MOUSE..  For Girls. Fantastic Suits.",
-  "price": 55,
-  "discountPercentage": 15.05,
-  "rating": 4.65,
-  "stock": 21,
-  "brand": "RED MICKY MOUSE..",
-  "category": "womens-dresses",
-  "thumbnail": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/4/147a0acP_DMK2206_R_1.jpg?rnd=20200526195200&tr=w-512s",
-  "images": [
-    "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/4/147a0acP_DMK2206_R_1.jpg?rnd=20200526195200&tr=w-512s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsB4o09IKJ_L7qo-1wL9j4U6CrnF0y9AFgaSSgsYXDHg&s",
-    "https://assets.ajio.com/medias/sys_master/root/20230811/CC2K/64d66364a9b42d15c9a63b93/-473Wx593H-466449885-maroon-MODEL.jpg",
-    "https://assets.ajio.com/medias/sys_master/root/20210225/7Eri/603744beaeb26969816fcf62/-473Wx593H-441114267-maroon-MODEL.jpg",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz_LJZ_eSzNdMMfpXCpVrG9KfARMp7vde6yEd5YCkHpz4rJXN6eHucLrEpULh2Tm8ee_Q&usqp=CAU"
-  ]
-},
-{
-  "id": 42,
-  "title": "Stiched Kurta plus trouser",
-  "description": "FABRIC: LILEIN CHEST: 21 LENGHT: 37 TROUSER: (38) :ARABIC LILEIN",
-  "price": 80,
-  "discountPercentage": 15.37,
-  "rating": 4.05,
-  "stock": 148,
-  "brand": "Digital Printed",
-  "category": "womens-dresses",
-  "thumbnail": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/9371699/2019/5/14/c47ee641-2e77-45fd-b585-b19eedd191f01557837782098-Sangria-Women-Kurtas-1621557837780171-1.jpg",
-  "images": [
-    "https://5.imimg.com/data5/SELLER/Default/2022/2/QN/CG/OW/118738989/01-5--500x500.jpg",
-    "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/12134716/2020/9/4/11deb460-66b0-4052-a83e-930378d50d541599212597968-Anouk-Women-Kurta-Sets-141599212595003-7.jpg",
-    "https://static-assets-web.flixcart.com/fk-p-transcode-video/autostitch/ethnic/ETHG2834UCZTWGZB_1660686183/manifest.jpg?q=20",
-    "https://absolutelydesi.com/wp-content/uploads/2023/04/Lavanya-The-Label-Women-Kurta-With-Trousers-5.jpg",
-    "https://shaadilogy.s3.ap-south-1.amazonaws.com/wp-content/uploads/YU1AP0201RJ0049_image1.jpg"
-  ]
-},
-{
-  "id": 43,
-  "title": "frock gold printed",
-  "description": "Ghazi fabric long frock gold printed ready to wear stitched collection (G992)",
-  "price": 600,
-  "discountPercentage": 15.55,
-  "rating": 4.31,
-  "stock": 150,
-  "brand": "Ghazi Fabric",
-  "category": "womens-dresses",
-  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVX2sGDIX3MwCoH03SjmvTI0KjWdDsfJyx7YUQxWCcFA&s",
-  "images": [
-    "https://i.pinimg.com/474x/e8/8a/a1/e88aa1f1620217689585cde49e0d86bf.jpg",
-    "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/26211468/2023/12/2/27bc41eb-c123-4638-bacd-58ae6cf992d51701537776950BHAWNARAORoseGoldNetDress1.jpg",
-    "https://5.imimg.com/data5/CC/LO/MY-15399851/112731-500x500.jpg",
-    "https://i.pinimg.com/474x/e9/5a/9f/e95a9f405917c7aebde9e3dcc2b19350.jpg",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuLwBITb9Tj97UcbCPMBmAoR5Qk_4Ga4LumPvv6PAJyQ&s"
-  ]
-},
-{
-  "id": 44,
-  "title": "Ladies Multicolored Dress",
-  "description": "This classy shirt for women gives you a gorgeous look on everyday wear and specially for semi-casual wears.",
-  "price": 79,
-  "discountPercentage": 16.88,
-  "rating": 4.03,
-  "stock": 2,
-  "brand": "Ghazi Fabric",
-  "category": "womens-dresses",
-  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHFw-b1O-LkcQ6RcYASG34j0IdhjFASAc_R1B-5XNdA&s",
-  "images": [
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYN37NwqRO1gDDXyrSS3-Dn5YKM_eIf465by65hUOiMA&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Z89L7X-POg6ddYGSz7s_nUDCx-Hg-48n4VyIG2vwrA&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzlAQseCg9e67-C4z4CpSec3-8cxHsZwmMPaS2n278Og&s",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcPBeP-yl6a1NGVXjKZvSqgV96uB2UKkv-q-21Cq1qFg&s",
-    "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/8/98bcc50MI01-362_8.jpg?rnd=20200526195200&tr=w-512"
-  ]
-},
-{
-  "id": 45,
-  "title": "Malai Maxi Dress",
-  "description": "Ready to wear, Unique design according to modern standard fashion, Best fitting ,Imported stuff",
-  "price": 50,
-  "discountPercentage": 5.07,
-  "rating": 4.67,
-  "stock": 96,
-  "brand": "IELGY",
-  "category": "womens-dresses",
-  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj5flnUgRyKpmpSwyhEbbzp_svxY2zPDMH-g&s",
-  "images": [
-    "https://images.meesho.com/images/products/66934121/qwjez_512.jpg",
-    "https://5.imimg.com/data5/ECOM/Default/2023/3/GF/BL/IZ/18263918/winning-multi-color-flower-design-printed-faux-georgette-full-stitched-gown-for-women-387583-500x500.jpg",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe5NXzKbLCnayU4g9huki7hvcBGaTRepHfewgTXCqWQw&s",
-    "https://5.imimg.com/data5/ECOM/Default/2023/3/CD/RS/RZ/18263918/winning-multi-color-flower-design-printed-faux-georgette-full-stitched-gown-for-women-588885-500x500.jpg",
-    "https://i.pinimg.com/474x/80/cc/8a/80cc8a92ab3c66e4336f3e496c2956e3--maxi-dresses-plus-size-womens-maxi-dresses.jpg"
-  ]
-},
-{
-  "id": 46,
-  "title": "women's shoes",
-  "description": "Close: Lace, Style with bottom: Increased inside, Sole Material: Rubber",
-  "price": 40,
-  "discountPercentage": 16.96,
-  "rating": 4.14,
-  "stock": 72,
-  "brand": "IELGY fashion",
-  "category": "womens-shoes",
-  "thumbnail": "https://5.imimg.com/data5/QO/AT/VK/SELLER-81781885/women-causal-shoes.Jpeg",
-  "images": [
-    "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/23393212/2023/5/25/58bbe579-cdb1-4ae9-be97-86e956b210aa1685014797233RoadsterLatestWomenCasualRunningWalkingSneakers-WhiteBeige1.jpg",
-    "https://5.imimg.com/data5/ANDROID/Default/2022/8/NH/KF/UV/125044124/product-jpeg-500x500.jpg",
-    "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/j/9/r/8-lu5001-8-layasa-blue-original-imaghzfgbjyfnfym.jpeg?q=90&crop=false",
-    "https://m.media-amazon.com/images/I/71kG+GnRp4L.AC_UY1000.jpg",
-    "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/23079364/2023/8/31/3fb79283-873c-4fa5-8747-f98d7ea48e091693466409208-The-Roadster-Lifestyle-Co-Women-White--Pink-Colourblocked-Li-1.jpg"
-  ]
-},
-{
-  "id": 47,
-  "title": "Sneaker shoes",
-  "description": "Synthetic Leather Casual Sneaker shoes for Women/girls Sneakers For Women",
-  "price": 120,
-  "discountPercentage": 10.37,
-  "rating": 4.19,
-  "stock": 50,
-  "brand": "Synthetic Leather",
-  "category": "womens-shoes",
-  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThHnxqX6rKiZFlZfW9o-7nYH9RBvSsCGF1M3uZoUbrEw&s",
-  "images": [
-    "https://5.imimg.com/data5/GU/LY/MY-44393694/men-sneaker-shoes.jpg",
-    "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/0/n/o/10-whitelineeee-kardam-sons-white-original-imagg9m7txx8ahjm.jpeg?q=90&crop=false",
-    "https://img0.junaroad.com/uiproducts/19813853/zoom_0-1695869405.jpg",
-    "https://img0.junaroad.com/uiproducts/19719673/zoom_0-1682527397.jpg"
-  ]
-},
-{
-  "id": 48,
-  "title": "Women Strip Heel",
-  "description": "Features: Flip-flops, Mid Heel, Comfortable, Striped Heel, Antiskid, Striped",
-  "price": 40,
-  "discountPercentage": 10.83,
-  "rating": 4.02,
-  "stock": 25,
-  "brand": "Sandals Flip Flops",
-  "category": "womens-shoes",
-  "thumbnail": "https://images.meesho.com/images/products/64206570/8ugk8_512.webp",
-  "images": [
-    "https://images.meesho.com/images/products/306534956/kww8y_512.webp",
-    "https://m.media-amazon.com/images/I/61QFYu+GRqL.AC_UY1000.jpg",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCrmM_K08FZD9Nq2pLUAHXtWD4U1GHhlv5Sqap5gnc6w&s",
-    "https://images-cdn.ubuy.co.in/63917141dd82a0229a7fecf3-women-39-s-satin-lace-up-high-heel.jpg",
-    "https://5.imimg.com/data5/SELLER/Default/2021/1/TX/LK/LE/98961804/888247-5--500x500.JPG"
-  ]
-},
-{
-  "id": 49,
-  "title": "Chappals & Shoe Ladies Metallic",
-  "description": "Womens Chappals & Shoe Ladies Metallic Tong Thong Sandal Flat Summer 2020 Maasai Sandals",
-  "price": 23,
-  "discountPercentage": 2.62,
-  "rating": 4.72,
-  "stock": 107,
-  "brand": "Maasai Sandals",
-  "category": "womens-shoes",
-  "thumbnail": "https://www.jiomart.com/images/product/original/rvrn07zlpu/shoe-lab-women-s-comfortable-black-sandal-footwear-for-women-sandals-for-women-wedges-for-women-heels-for-women-non-returnable-product-images-rvrn07zlpu-0-202311071206.jpg?im=Resize=(500,630)",
-  "images": [
-    "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/26215172/2023/12/3/dd62ab08-5170-4957-b770-bbacecc8dc641701549296016BeigeSustainableSlip-OnWomenComfortSandals1.jpg",
-    "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/6/f6e22f8NF_SHOET00009391_2.jpg?tr=w-512",
-    "https://imagescdn.planetfashion.in/img/app/product/7/729809-8105875.jpg?auto=format&w=494.40000000000003",
-    "https://www.jiomart.com/images/product/original/rvmosllqd4/paragon-k6019l-women-sandals-casual-sandals-stylish-comfortable-durable-for-daily-wear-product-images-rvmosllqd4-0-202309061251.jpg?im=Resize=(500,630)"
-  ]
-},
-{
-  "id": 50,
-  "title": "Women Shoes",
-  "description": "2020 New Arrivals Genuine Leather Fashion Trend Platform Summer Women Shoes",
-  "price": 36,
-  "discountPercentage": 16.87,
-  "rating": 4.33,
-  "stock": 46,
-  "brand": "Arrivals Genuine",
-  "category": "womens-shoes",
-  "thumbnail": "https://doctorextrasoft.com/cdn/shop/products/fuschia.jpg?v=1656503277",
-  "images": [
-    "https://tiimg.tistatic.com/fp/1/007/593/women-s-casual-sneakers-sports-comfortable-running-mesh-tennis-shoes-288.jpg",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZXSvC6WFxU39tqa8Kqw9S77BjKL2sAyt6RQTu9rXhVw&s",
-    "https://contents.mediadecathlon.com/p1080266/1e007aaba68a449f64fa3c21dc58ec52/p1080266.jpg"
-]
-},
+        "https://i.dummyjson.com/data/products/40/1.jpg",
+        "https://i.dummyjson.com/data/products/40/2.jpg"
+      ]
+    },
+    {
+      "id": 41,
+      "title": "NIGHT SUIT",
+      "description": "NIGHT SUIT RED MICKY MOUSE..  For Girls. Fantastic Suits.",
+      "price": 55,
+      "discountPercentage": 15.05,
+      "rating": 4.65,
+      "stock": 21,
+      "brand": "RED MICKY MOUSE..",
+      "category": "womens-dresses",
+      "thumbnail": "https://i.dummyjson.com/data/products/41/thumbnail.webp",
+      "images": [
+        "https://i.dummyjson.com/data/products/41/1.jpg",
+        "https://i.dummyjson.com/data/products/41/2.webp",
+        "https://i.dummyjson.com/data/products/41/3.jpg",
+        "https://i.dummyjson.com/data/products/41/4.jpg",
+        "https://i.dummyjson.com/data/products/41/thumbnail.webp"
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Stiched Kurta plus trouser",
+      "description": "FABRIC: LILEIN CHEST: 21 LENGHT: 37 TROUSER: (38) :ARABIC LILEIN",
+      "price": 80,
+      "discountPercentage": 15.37,
+      "rating": 4.05,
+      "stock": 148,
+      "brand": "Digital Printed",
+      "category": "womens-dresses",
+      "thumbnail": "https://i.dummyjson.com/data/products/42/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/42/1.png",
+        "https://i.dummyjson.com/data/products/42/2.png",
+        "https://i.dummyjson.com/data/products/42/3.png",
+        "https://i.dummyjson.com/data/products/42/4.jpg",
+        "https://i.dummyjson.com/data/products/42/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 43,
+      "title": "frock gold printed",
+      "description": "Ghazi fabric long frock gold printed ready to wear stitched collection (G992)",
+      "price": 600,
+      "discountPercentage": 15.55,
+      "rating": 4.31,
+      "stock": 150,
+      "brand": "Ghazi Fabric",
+      "category": "womens-dresses",
+      "thumbnail": "https://i.dummyjson.com/data/products/43/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/43/1.jpg",
+        "https://i.dummyjson.com/data/products/43/2.jpg",
+        "https://i.dummyjson.com/data/products/43/3.jpg",
+        "https://i.dummyjson.com/data/products/43/4.jpg",
+        "https://i.dummyjson.com/data/products/43/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Ladies Multicolored Dress",
+      "description": "This classy shirt for women gives you a gorgeous look on everyday wear and specially for semi-casual wears.",
+      "price": 79,
+      "discountPercentage": 16.88,
+      "rating": 4.03,
+      "stock": 2,
+      "brand": "Ghazi Fabric",
+      "category": "womens-dresses",
+      "thumbnail": "https://i.dummyjson.com/data/products/44/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/44/1.jpg",
+        "https://i.dummyjson.com/data/products/44/2.jpg",
+        "https://i.dummyjson.com/data/products/44/3.jpg",
+        "https://i.dummyjson.com/data/products/44/4.jpg",
+        "https://i.dummyjson.com/data/products/44/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Malai Maxi Dress",
+      "description": "Ready to wear, Unique design according to modern standard fashion, Best fitting ,Imported stuff",
+      "price": 50,
+      "discountPercentage": 5.07,
+      "rating": 4.67,
+      "stock": 96,
+      "brand": "IELGY",
+      "category": "womens-dresses",
+      "thumbnail": "https://i.dummyjson.com/data/products/45/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/45/1.jpg",
+        "https://i.dummyjson.com/data/products/45/2.webp",
+        "https://i.dummyjson.com/data/products/45/3.jpg",
+        "https://i.dummyjson.com/data/products/45/4.jpg",
+        "https://i.dummyjson.com/data/products/45/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 46,
+      "title": "women's shoes",
+      "description": "Close: Lace, Style with bottom: Increased inside, Sole Material: Rubber",
+      "price": 40,
+      "discountPercentage": 16.96,
+      "rating": 4.14,
+      "stock": 72,
+      "brand": "IELGY fashion",
+      "category": "womens-shoes",
+      "thumbnail": "https://i.dummyjson.com/data/products/46/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/46/1.webp",
+        "https://i.dummyjson.com/data/products/46/2.jpg",
+        "https://i.dummyjson.com/data/products/46/3.jpg",
+        "https://i.dummyjson.com/data/products/46/4.jpg",
+        "https://i.dummyjson.com/data/products/46/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Sneaker shoes",
+      "description": "Synthetic Leather Casual Sneaker shoes for Women/girls Sneakers For Women",
+      "price": 120,
+      "discountPercentage": 10.37,
+      "rating": 4.19,
+      "stock": 50,
+      "brand": "Synthetic Leather",
+      "category": "womens-shoes",
+      "thumbnail": "https://i.dummyjson.com/data/products/47/thumbnail.jpeg",
+      "images": [
+        "https://i.dummyjson.com/data/products/47/1.jpg",
+        "https://i.dummyjson.com/data/products/47/2.jpg",
+        "https://i.dummyjson.com/data/products/47/3.jpg",
+        "https://i.dummyjson.com/data/products/47/thumbnail.jpeg"
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Women Strip Heel",
+      "description": "Features: Flip-flops, Mid Heel, Comfortable, Striped Heel, Antiskid, Striped",
+      "price": 40,
+      "discountPercentage": 10.83,
+      "rating": 4.02,
+      "stock": 25,
+      "brand": "Sandals Flip Flops",
+      "category": "womens-shoes",
+      "thumbnail": "https://i.dummyjson.com/data/products/48/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/48/1.jpg",
+        "https://i.dummyjson.com/data/products/48/2.jpg",
+        "https://i.dummyjson.com/data/products/48/3.jpg",
+        "https://i.dummyjson.com/data/products/48/4.jpg",
+        "https://i.dummyjson.com/data/products/48/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Chappals & Shoe Ladies Metallic",
+      "description": "Womens Chappals & Shoe Ladies Metallic Tong Thong Sandal Flat Summer 2020 Maasai Sandals",
+      "price": 23,
+      "discountPercentage": 2.62,
+      "rating": 4.72,
+      "stock": 107,
+      "brand": "Maasai Sandals",
+      "category": "womens-shoes",
+      "thumbnail": "https://i.dummyjson.com/data/products/49/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/49/1.jpg",
+        "https://i.dummyjson.com/data/products/49/2.jpg",
+        "https://i.dummyjson.com/data/products/49/3.webp",
+        "https://i.dummyjson.com/data/products/49/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Women Shoes",
+      "description": "2020 New Arrivals Genuine Leather Fashion Trend Platform Summer Women Shoes",
+      "price": 36,
+      "discountPercentage": 16.87,
+      "rating": 4.33,
+      "stock": 46,
+      "brand": "Arrivals Genuine",
+      "category": "womens-shoes",
+      "thumbnail": "https://i.dummyjson.com/data/products/50/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/50/1.jpeg",
+        "https://i.dummyjson.com/data/products/50/2.jpg",
+        "https://i.dummyjson.com/data/products/50/3.jpg"
+      ]
+    },
     {
       "id": 51,
       "title": "half sleeves T shirts",
@@ -937,12 +934,12 @@
       "stock": 132,
       "brand": "Vintage Apparel",
       "category": "mens-shirts",
-      "thumbnail": "http://surl.li/srnoc",
+      "thumbnail": "https://i.dummyjson.com/data/products/51/thumbnail.jpg",
       "images": [
-        "http://surl.li/srnoe",
-        "http://surl.li/srnol",
-        "http://surl.li/srnor",
-        "http://surl.li/srnpa"
+        "https://i.dummyjson.com/data/products/51/1.png",
+        "https://i.dummyjson.com/data/products/51/2.jpg",
+        "https://i.dummyjson.com/data/products/51/3.jpg",
+        "https://i.dummyjson.com/data/products/51/thumbnail.jpg"
       ]
     },
     {
@@ -955,13 +952,13 @@
       "stock": 128,
       "brand": "FREE FIRE",
       "category": "mens-shirts",
-      "thumbnail": "http://surl.li/srnmh",
+      "thumbnail": "https://i.dummyjson.com/data/products/52/thumbnail.jpg",
       "images": [
-        "http://surl.li/srnmn",
-        "http://surl.li/srnmt",
-        "http://surl.li/srnnd",
-        "http://surl.li/srnni",
-        "http://surl.li/srnnp"
+        "https://i.dummyjson.com/data/products/52/1.png",
+        "https://i.dummyjson.com/data/products/52/2.png",
+        "https://i.dummyjson.com/data/products/52/3.jpg",
+        "https://i.dummyjson.com/data/products/52/4.jpg",
+        "https://i.dummyjson.com/data/products/52/thumbnail.jpg"
       ]
     },
     {
@@ -974,13 +971,13 @@
       "stock": 6,
       "brand": "Vintage Apparel",
       "category": "mens-shirts",
-      "thumbnail": "http://surl.li/srnkg",
+      "thumbnail": "https://i.dummyjson.com/data/products/53/thumbnail.jpg",
       "images": [
-        "http://surl.li/srnkt",
-        "http://surl.li/srnla",
-        "http://surl.li/srnli",
-        "http://surl.li/srnlq",
-        "http://surl.li/srnly"
+        "https://i.dummyjson.com/data/products/53/1.webp",
+        "https://i.dummyjson.com/data/products/53/2.jpg",
+        "https://i.dummyjson.com/data/products/53/3.jpg",
+        "https://i.dummyjson.com/data/products/53/4.jpg",
+        "https://i.dummyjson.com/data/products/53/thumbnail.jpg"
       ]
     },
     {
@@ -993,13 +990,13 @@
       "stock": 136,
       "brand": "The Warehouse",
       "category": "mens-shirts",
-      "thumbnail": "http://surl.li/srnhv",
+      "thumbnail": "https://i.dummyjson.com/data/products/54/thumbnail.jpg",
       "images": [
-        "http://surl.li/srnic",
-        "http://surl.li/srniq",
-        "http://surl.li/srniw",
-        "http://surl.li/srnjh",
-        "http://surl.li/srnjr"
+        "https://i.dummyjson.com/data/products/54/1.jpg",
+        "https://i.dummyjson.com/data/products/54/2.jpg",
+        "https://i.dummyjson.com/data/products/54/3.jpg",
+        "https://i.dummyjson.com/data/products/54/4.jpg",
+        "https://i.dummyjson.com/data/products/54/thumbnail.jpg"
       ]
     },
     {
@@ -1012,13 +1009,13 @@
       "stock": 122,
       "brand": "The Warehouse",
       "category": "mens-shirts",
-      "thumbnail": "http://surl.li/srngf",
+      "thumbnail": "https://i.dummyjson.com/data/products/55/thumbnail.jpg",
       "images": [
-        "http://surl.li/srngl",
-        "http://surl.li/srngs",
-        "http://surl.li/srnha",
-        "http://surl.li/srnhf",
-        "http://surl.li/srnhl"
+        "https://i.dummyjson.com/data/products/55/1.jpg",
+        "https://i.dummyjson.com/data/products/55/2.webp",
+        "https://i.dummyjson.com/data/products/55/3.jpg",
+        "https://i.dummyjson.com/data/products/55/4.jpg",
+        "https://i.dummyjson.com/data/products/55/thumbnail.jpg"
       ]
     },
     {
@@ -1031,14 +1028,14 @@
       "stock": 6,
       "brand": "Sneakers",
       "category": "mens-shoes",
-      "thumbnail": "http://surl.li/srnbu",
+      "thumbnail": "https://i.dummyjson.com/data/products/56/thumbnail.jpg",
       "images": [
-        "http://surl.li/srnci",
-        "http://surl.li/srncn",
-        "http://surl.li/srncw",
-        "http://surl.li/srnda",
-        "http://surl.li/srnde",
-        "http://surl.li/srndf"
+        "https://i.dummyjson.com/data/products/56/1.jpg",
+        "https://i.dummyjson.com/data/products/56/2.jpg",
+        "https://i.dummyjson.com/data/products/56/3.jpg",
+        "https://i.dummyjson.com/data/products/56/4.jpg",
+        "https://i.dummyjson.com/data/products/56/5.jpg",
+        "https://i.dummyjson.com/data/products/56/thumbnail.jpg"
       ]
     },
     {
@@ -1051,13 +1048,13 @@
       "stock": 20,
       "brand": "Rubber",
       "category": "mens-shoes",
-      "thumbnail": "http://surl.li/srmzu",
+      "thumbnail": "https://i.dummyjson.com/data/products/57/thumbnail.jpg",
       "images": [
-        "http://surl.li/srmzw",
-        "http://surl.li/srnaa",
-        "http://surl.li/srnaf",
-        "http://surl.li/srnal",
-        "http://surl.li/srnat"
+        "https://i.dummyjson.com/data/products/57/1.jpg",
+        "https://i.dummyjson.com/data/products/57/2.jpg",
+        "https://i.dummyjson.com/data/products/57/3.jpg",
+        "https://i.dummyjson.com/data/products/57/4.jpg",
+        "https://i.dummyjson.com/data/products/57/thumbnail.jpg"
       ]
     },
     {
@@ -1070,13 +1067,13 @@
       "stock": 68,
       "brand": "The Warehouse",
       "category": "mens-shoes",
-      "thumbnail": "http://surl.li/srmyh",
+      "thumbnail": "https://i.dummyjson.com/data/products/58/thumbnail.jpg",
       "images": [
-        "http://surl.li/srmyk",
-        "http://surl.li/srmyn",
-        "http://surl.li/srmyw",
-        "http://surl.li/srmzc",
-        "http://surl.li/srmzi"
+        "https://i.dummyjson.com/data/products/58/1.jpg",
+        "https://i.dummyjson.com/data/products/58/2.jpg",
+        "https://i.dummyjson.com/data/products/58/3.jpg",
+        "https://i.dummyjson.com/data/products/58/4.jpg",
+        "https://i.dummyjson.com/data/products/58/thumbnail.jpg"
       ]
     },
     {
@@ -1089,13 +1086,13 @@
       "stock": 137,
       "brand": "Sneakers",
       "category": "mens-shoes",
-      "thumbnail": "http://surl.li/srmwr",
+      "thumbnail": "https://i.dummyjson.com/data/products/59/thumbnail.jpg",
       "images": [
-        "http://surl.li/srmwz",
-        "http://surl.li/srmxd",
-        "http://surl.li/srmxj",
-        "http://surl.li/srmxp",
-        "http://surl.li/srmxv"
+        "https://i.dummyjson.com/data/products/59/1.jpg",
+        "https://i.dummyjson.com/data/products/59/2.jpg",
+        "https://i.dummyjson.com/data/products/59/3.jpg",
+        "https://i.dummyjson.com/data/products/59/4.jpg",
+        "https://i.dummyjson.com/data/products/59/thumbnail.jpg"
       ]
     },
     {
@@ -1108,12 +1105,12 @@
       "stock": 129,
       "brand": "Sneakers",
       "category": "mens-shoes",
-      "thumbnail": "http://surl.li/srmtr",
+      "thumbnail": "https://i.dummyjson.com/data/products/60/thumbnail.jpg",
       "images": [
-        "http://surl.li/srmus",
-        "http://surl.li/srmvu",
-        "http://surl.li/srmwc",
-        "http://surl.li/srmwk"
+        "https://i.dummyjson.com/data/products/60/1.jpg",
+        "https://i.dummyjson.com/data/products/60/2.jpg",
+        "https://i.dummyjson.com/data/products/60/3.jpg",
+        "https://i.dummyjson.com/data/products/60/thumbnail.jpg"
       ]
     },
     {
@@ -1126,13 +1123,13 @@
       "stock": 91,
       "brand": "Naviforce",
       "category": "mens-watches",
-      "thumbnail": "https://tinyurl.com/kv2uz9ta",
+      "thumbnail": "https://i.dummyjson.com/data/products/61/thumbnail.jpg",
       "images": [
-         "https://tinyurl.com/4pjrrahv",
-         "https://tinyurl.com/93et25np",
-         "https://tinyurl.com/4keethft"
+        "https://i.dummyjson.com/data/products/61/1.jpg",
+        "https://i.dummyjson.com/data/products/61/2.png",
+        "https://i.dummyjson.com/data/products/61/3.jpg"
       ]
-       },
+    },
     {
       "id": 62,
       "title": "Waterproof Leather Brand Watch",
@@ -1143,14 +1140,12 @@
       "stock": 95,
       "brand": "SKMEI 9117",
       "category": "mens-watches",
-      "thumbnail": "https://tinyurl.com/yxktj5re",
+      "thumbnail": "https://i.dummyjson.com/data/products/62/thumbnail.jpg",
       "images": [
-        "https://tinyurl.com/4d24bzac",
-        "https://tinyurl.com/5n7eeta4",
-        "https://tinyurl.com/2xy5sfjz"
-            
+        "https://i.dummyjson.com/data/products/62/1.jpg",
+        "https://i.dummyjson.com/data/products/62/2.jpg"
       ]
-     },
+    },
     {
       "id": 63,
       "title": "Royal Blue Premium Watch",
@@ -1161,11 +1156,12 @@
       "stock": 142,
       "brand": "SKMEI 9117",
       "category": "mens-watches",
-      "thumbnail": "https://tinyurl.com/3znpuvra",
+      "thumbnail": "https://i.dummyjson.com/data/products/63/thumbnail.webp",
       "images": [
-        "https://tinyurl.com/57t38fx7",
-        "https://tinyurl.com/2vwpajyv",
-        "https://tinyurl.com/y4uyment"
+        "https://i.dummyjson.com/data/products/63/1.jpg",
+        "https://i.dummyjson.com/data/products/63/2.jpg",
+        "https://i.dummyjson.com/data/products/63/3.png",
+        "https://i.dummyjson.com/data/products/63/4.jpeg"
       ]
     },
     {
@@ -1178,12 +1174,12 @@
       "stock": 61,
       "brand": "Strap Skeleton",
       "category": "mens-watches",
-      "thumbnail": "https://tinyurl.com/4r393h7a",
+      "thumbnail": "https://i.dummyjson.com/data/products/64/thumbnail.jpg",
       "images": [
-        "https://tinyurl.com/3h2y88x4",
-        "https://tinyurl.com/bdfswz25",
-        "https://tinyurl.com/222hdpbv",
-        "https://tinyurl.com/ss9449hv"
+        "https://i.dummyjson.com/data/products/64/1.jpg",
+        "https://i.dummyjson.com/data/products/64/2.webp",
+        "https://i.dummyjson.com/data/products/64/3.jpg",
+        "https://i.dummyjson.com/data/products/64/thumbnail.jpg"
       ]
     },
     {
@@ -1196,12 +1192,13 @@
       "stock": 94,
       "brand": "Stainless",
       "category": "mens-watches",
-      "thumbnail": "https://tinyurl.com/2wss2kkb",
+      "thumbnail": "https://i.dummyjson.com/data/products/65/thumbnail.webp",
       "images": [
-       "https://tinyurl.com/ydz39m5e",
-       "https://tinyurl.com/4amxv3wb",
-       "https://tinyurl.com/32bz582n",
-       "https://tinyurl.com/bdznfx4s"
+        "https://i.dummyjson.com/data/products/65/1.jpg",
+        "https://i.dummyjson.com/data/products/65/2.webp",
+        "https://i.dummyjson.com/data/products/65/3.jpg",
+        "https://i.dummyjson.com/data/products/65/4.webp",
+        "https://i.dummyjson.com/data/products/65/thumbnail.webp"
       ]
     },
     {
@@ -1214,12 +1211,13 @@
       "stock": 24,
       "brand": "Eastern Watches",
       "category": "womens-watches",
-      "thumbnail": "https://tinyurl.com/mpzrp42w",
+      "thumbnail": "https://i.dummyjson.com/data/products/66/thumbnail.jpg",
       "images": [
-        "https://tinyurl.com/e929akpw",
-        "https://tinyurl.com/prj8ctw4",
-        "https://tinyurl.com/ykxwcvua",
-        "https://tinyurl.com/yrmzx74y"
+        "https://i.dummyjson.com/data/products/66/1.jpg",
+        "https://i.dummyjson.com/data/products/66/2.jpg",
+        "https://i.dummyjson.com/data/products/66/3.jpg",
+        "https://i.dummyjson.com/data/products/66/4.JPG",
+        "https://i.dummyjson.com/data/products/66/thumbnail.jpg"
       ]
     },
     {
@@ -1232,11 +1230,13 @@
       "stock": 46,
       "brand": "Eastern Watches",
       "category": "womens-watches",
-      "thumbnail": "https://tinyurl.com/yecskk3p",
+      "thumbnail": "https://i.dummyjson.com/data/products/67/thumbnail.jpg",
       "images": [
-        "https://tinyurl.com/4rcmdt3m",
-        "https://tinyurl.com/ydmjc3k6",
-        "https://tinyurl.com/4uvekhmj"
+        "https://i.dummyjson.com/data/products/67/1.jpg",
+        "https://i.dummyjson.com/data/products/67/2.jpg",
+        "https://i.dummyjson.com/data/products/67/3.jpg",
+        "https://i.dummyjson.com/data/products/67/4.jpg",
+        "https://i.dummyjson.com/data/products/67/thumbnail.jpg"
       ]
     },
     {
@@ -1249,10 +1249,10 @@
       "stock": 77,
       "brand": "Luxury Digital",
       "category": "womens-watches",
-      "thumbnail": "https://tinyurl.com/v2xakju6",
+      "thumbnail": "https://i.dummyjson.com/data/products/68/thumbnail.webp",
       "images": [
-       "https://tinyurl.com/5n96m8ku",
-       "https://tinyurl.com/2cr6ev2s"
+        "https://i.dummyjson.com/data/products/68/1.jpg",
+        "https://i.dummyjson.com/data/products/68/2.jpg"
       ]
     },
     {
@@ -1265,11 +1265,13 @@
       "stock": 89,
       "brand": "Watch Pearls",
       "category": "womens-watches",
-      "thumbnail": "https://tinyurl.com/4y4fbk4v",
+      "thumbnail": "https://i.dummyjson.com/data/products/69/thumbnail.jpg",
       "images": [
-        "https://tinyurl.com/5e2bdvsm",
-        "https://tinyurl.com/nwvyrdjm",
-        "https://tinyurl.com/349u4mdx"
+        "https://i.dummyjson.com/data/products/69/1.jpg",
+        "https://i.dummyjson.com/data/products/69/2.jpg",
+        "https://i.dummyjson.com/data/products/69/3.webp",
+        "https://i.dummyjson.com/data/products/69/4.jpg",
+        "https://i.dummyjson.com/data/products/69/thumbnail.jpg"
       ]
     },
     {
@@ -1282,11 +1284,11 @@
       "stock": 111,
       "brand": "Bracelet",
       "category": "womens-watches",
-      "thumbnail":"https://tinyurl.com/2vv3fk3v",
+      "thumbnail": "https://i.dummyjson.com/data/products/70/thumbnail.jpg",
       "images": [
-        "https://tinyurl.com/43uysfyw",
-        "https://tinyurl.com/ybutpnpu",
-        "https://tinyurl.com/5fvmn66c"
+        "https://i.dummyjson.com/data/products/70/1.jpg",
+        "https://i.dummyjson.com/data/products/70/2.jpg",
+        "https://i.dummyjson.com/data/products/70/thumbnail.jpg"
       ]
     },
     {
@@ -1299,12 +1301,12 @@
       "stock": 17,
       "brand": "LouisWill",
       "category": "womens-bags",
-      "thumbnail": "https://www.charleskeith.in/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-in-products/default/dw54f22d8f/images/hi-res/2023-L3-CK2-20840069-12-12-1.jpg?sw=1152&sh=1536",
+      "thumbnail": "https://i.dummyjson.com/data/products/71/thumbnail.jpg",
       "images": [
-        "https://www.charleskeith.in/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-in-products/default/dwc1c66966/images/hi-res/2019-L7-CK2-80700998-4-41-1.jpg?sw=1152&sh=1536",
-        "https://www.charleskeith.in/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-in-products/default/dwa5fc0da8/images/hi-res/2024-L2-SL2-20271321-1-06-1.jpg?sw=1152&sh=1536",
-        "https://www.charleskeith.in/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-in-products/default/dw2ef81917/images/hi-res/2023-L2-CK2-20271057-68-1.jpg?sw=1152&sh=1536",
-        "https://www.charleskeith.in/dw/image/v2/BCWJ_PRD/on/demandware.static/-/Sites-in-products/default/dw45e3dbc3/images/hi-res/2023-L7-CK2-20782259-65-1.jpg?sw=1152&sh=1536"
+        "https://i.dummyjson.com/data/products/71/1.jpg",
+        "https://i.dummyjson.com/data/products/71/2.jpg",
+        "https://i.dummyjson.com/data/products/71/3.webp",
+        "https://i.dummyjson.com/data/products/71/thumbnail.jpg"
       ]
     },
     {
@@ -1317,13 +1319,13 @@
       "stock": 27,
       "brand": "LouisWill",
       "category": "womens-bags",
-      "thumbnail": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/5/8/5841cf7NK_LEGAL00000362_1.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/72/thumbnail.webp",
       "images": [
-        "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/c/acf01e1PL23C119_1.jpg",
-        "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/6/8643062FB%202516_1.jpg",
-        "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/8/c8fab142129195_1.jpg",
-        "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/7/77849eaLB1665_1.jpg",
-        "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/9/c9a75f1JNFIES00000450_1.jpg"
+        "https://i.dummyjson.com/data/products/72/1.jpg",
+        "https://i.dummyjson.com/data/products/72/2.png",
+        "https://i.dummyjson.com/data/products/72/3.webp",
+        "https://i.dummyjson.com/data/products/72/4.jpg",
+        "https://i.dummyjson.com/data/products/72/thumbnail.webp"
       ]
     },
     {
@@ -1336,12 +1338,12 @@
       "stock": 101,
       "brand": "Bracelet",
       "category": "womens-bags",
-      "thumbnail": "https://images.meesho.com/images/products/262449360/gd6jk_400.webp",
+      "thumbnail": "https://i.dummyjson.com/data/products/73/thumbnail.jpg",
       "images": [
-        "https://images.meesho.com/images/products/299511949/ekaa4_400.webp",
-        "https://images.meesho.com/images/products/73816674/m7rsr_400.webp",
-        "https://images.meesho.com/images/products/306803221/d8mwo_400.webp",
-        "https://images.meesho.com/images/products/68008911/jfnts_400.webp"
+        "https://i.dummyjson.com/data/products/73/1.jpg",
+        "https://i.dummyjson.com/data/products/73/2.webp",
+        "https://i.dummyjson.com/data/products/73/3.jpg",
+        "https://i.dummyjson.com/data/products/73/thumbnail.jpg"
       ]
     },
     {
@@ -1354,13 +1356,13 @@
       "stock": 43,
       "brand": "Copenhagen Luxe",
       "category": "womens-bags",
-      "thumbnail": "https://m.media-amazon.com/images/I/71nu6T+EUBL.AC_UL480_FMwebp_QL65.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/74/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/41KNDCQ79RL.AC_UL480_FMwebp_QL65.jpg",
-        "https://m.media-amazon.com/images/I/81J1Fc-Y-oL.AC_UL480_FMwebp_QL65.jpg",
-        "https://m.media-amazon.com/images/I/71H2oMztYEL.AC_UL480_FMwebp_QL65.jpg",
-        "https://m.media-amazon.com/images/I/81Ul1MCurQL.AC_UL480_FMwebp_QL65.jpg",
-        "https://m.media-amazon.com/images/I/81drK7Q9uCL.AC_UL480_FMwebp_QL65.jpg"
+        "https://i.dummyjson.com/data/products/74/1.jpg",
+        "https://i.dummyjson.com/data/products/74/2.jpg",
+        "https://i.dummyjson.com/data/products/74/3.jpg",
+        "https://i.dummyjson.com/data/products/74/4.jpg",
+        "https://i.dummyjson.com/data/products/74/thumbnail.jpg"
       ]
     },
     {
@@ -1373,12 +1375,12 @@
       "stock": 13,
       "brand": "Steal Frame",
       "category": "womens-bags",
-      "thumbnail": "https://m.media-amazon.com/images/I/61ovyju+GAL.SY695.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/75/thumbnail.jpg",
       "images": [
-        "https://cdn.shopclues.com/images1/thumbnails/97116/280/1/143793854-97116918-1669587322.jpg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQczlnhuWk0bvw9x8jl7oP8ol8STJKn9xtfuWAXfdEkAogBNQ08fHOs6nObTA&s",
-        "https://i.ebayimg.com/thumbs/images/g/JvgAAOSw67hlpAEv/s-l960.webp",
-        "https://i.ebayimg.com/thumbs/images/g/Sr4AAOSw9cFloC97/s-l960.webp"
+        "https://i.dummyjson.com/data/products/75/1.jpg",
+        "https://i.dummyjson.com/data/products/75/2.jpg",
+        "https://i.dummyjson.com/data/products/75/3.jpg",
+        "https://i.dummyjson.com/data/products/75/thumbnail.jpg"
       ]
     },
     {
@@ -1391,11 +1393,11 @@
       "stock": 51,
       "brand": "Darojay",
       "category": "womens-jewellery",
-      "thumbnail": "https://m.media-amazon.com/images/I/512dyCsOKRS.AC_UL480_FMwebp_QL65.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/76/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/51XoIzYvO-L.AC_UL480_FMwebp_QL65.jpg",
-        "https://m.media-amazon.com/images/I/51kJTUwqw9L.AC_UL480_FMwebp_QL65.jpg",
-        "https://m.media-amazon.com/images/I/51Bu7hiIfNL.AC_UL480_FMwebp_QL65.jpg"
+        "https://i.dummyjson.com/data/products/76/1.jpg",
+        "https://i.dummyjson.com/data/products/76/2.jpg",
+        "https://i.dummyjson.com/data/products/76/thumbnail.jpg"
       ]
     },
     {
@@ -1408,12 +1410,12 @@
       "stock": 149,
       "brand": "Copenhagen Luxe",
       "category": "womens-jewellery",
-      "thumbnail": "https://m.media-amazon.com/images/I/51vZUWt0VXL.AC_UL480_FMwebp_QL65.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/77/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/61XydvVYIWL.AC_UL480_FMwebp_QL65.jpg",
-        "https://m.media-amazon.com/images/I/61GCkLD4zmL.AC_UL480_FMwebp_QL65.jpg",
-        "https://m.media-amazon.com/images/I/51ctnJWKt9L.AC_UL480_FMwebp_QL65.jpg",
-        "https://m.media-amazon.com/images/I/71zKvf7SrsL.AC_UL480_FMwebp_QL65.jpg"
+        "https://i.dummyjson.com/data/products/77/1.jpg",
+        "https://i.dummyjson.com/data/products/77/2.jpg",
+        "https://i.dummyjson.com/data/products/77/3.jpg",
+        "https://i.dummyjson.com/data/products/77/thumbnail.jpg"
       ]
     },
     {
@@ -1426,8 +1428,10 @@
       "stock": 9,
       "brand": "Fashion Jewellery",
       "category": "womens-jewellery",
-      "thumbnail": "https://i.ebayimg.com/images/g/dYAAAOSwd~RZOKaK/s-l140.webp",
-      "images": ["https://i.ebayimg.com/images/g/kXMAAOSwTf9ZOKaS/s-l140.webp"]
+      "thumbnail": "https://i.dummyjson.com/data/products/78/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/78/thumbnail.jpg"
+      ]
     },
     {
       "id": 79,
@@ -1439,9 +1443,9 @@
       "stock": 16,
       "brand": "Fashion Jewellery",
       "category": "womens-jewellery",
-      "thumbnail": "hhttps://m.media-amazon.com/images/I/61R2K3gdvcL.AC_UL480_FMwebp_QL65.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/79/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/51sR7Zq4wkL.AC_UL480_FMwebp_QL65.jpg"
+        "https://i.dummyjson.com/data/products/79/1.jpg"
       ]
     },
     {
@@ -1454,12 +1458,13 @@
       "stock": 9,
       "brand": "Cuff Butterfly",
       "category": "womens-jewellery",
-      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSdb_SAk4Bk__kbsJIsBxabU9TsWUX5kAs29f69uScGO-fOEtqTcDhP-RKJeTRtMOdkGo2MlSVUvN33DfxI0lTqyp2Orj_QBm159_Y3fNEp5_iVUKBdml7CsRnFmiR82POfSZFpSH0&usqp=CAc",
+      "thumbnail": "https://i.dummyjson.com/data/products/80/thumbnail.jpg",
       "images": [
-        "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS27zgWv_3wzm9O3p-tV4bp3F-FNf6wmXCW3-pbu4ef-OrobHl98S5KzXYKZOlWakqfx2ANbiHYqz7HGloM2Rjeq7AelK2wn_oq99BuljsE1_fIdKBLAHAZdeQff8cy-HRDnq2hOQ&usqp=CAc",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWStgbIovJLnmS_GFcyB3jNZspPsdcaP33Q&s",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpGo1is61OeA5_AjgZbjC0dIBtd2mkI3cr-Q&s",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPR-l3wjYd6F4XeF3umFdTy4OxFAH5Y99dFA&s"
+        "https://i.dummyjson.com/data/products/80/1.jpg",
+        "https://i.dummyjson.com/data/products/80/2.jpg",
+        "https://i.dummyjson.com/data/products/80/3.png",
+        "https://i.dummyjson.com/data/products/80/4.jpg",
+        "https://i.dummyjson.com/data/products/80/thumbnail.jpg"
       ]
     },
     {
@@ -1472,11 +1477,14 @@
       "stock": 78,
       "brand": "Designer Sun Glasses",
       "category": "sunglasses",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF0sQZKOztb_1Yo86QddhkbO62IddJZkT0zg&s",
+      "thumbnail": "https://i.dummyjson.com/data/products/81/thumbnail.jpg",
       "images": [
-        "https://5.imimg.com/data5/CS/TV/ZZ/SELLER-86296932/silver-frame-black-lens-round-sunglasses.jpg",
-        "https://img.ebdcdn.com/product/front/white/smt6488.jpg?im=Resize,width=700,height=350,aspect=fill;UnsharpMask,sigma=1.0,gain=1.0",
-        "https://images.meesho.com/images/products/223250703/uxkpd_512.webp"      ]
+        "https://i.dummyjson.com/data/products/81/1.jpg",
+        "https://i.dummyjson.com/data/products/81/2.jpg",
+        "https://i.dummyjson.com/data/products/81/3.jpg",
+        "https://i.dummyjson.com/data/products/81/4.webp",
+        "https://i.dummyjson.com/data/products/81/thumbnail.jpg"
+      ]
     },
     {
       "id": 82,
@@ -1488,14 +1496,13 @@
       "stock": 78,
       "brand": "Designer Sun Glasses",
       "category": "sunglasses",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8IpqPvzklePG2rnanEtgPVOHouwJSdT8kPg&s",
+      "thumbnail": "https://i.dummyjson.com/data/products/82/thumbnail.jpg",
       "images": [
-        "https://images.meesho.com/images/products/248949397/lnpen_512.webp",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_hyR3gVLCtiDpmZjyuHwURaqqgJEMyj6zbpQELXOt5kcIfz2p_1JBYoBoRxbFgAbbQs4&usqp=CAU",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZiYIlgD2_qfhTILtWkGTSbPZs68Y4aTOrp2tFQi7SKQ&s"
-
-        
-        
+        "https://i.dummyjson.com/data/products/82/1.jpg",
+        "https://i.dummyjson.com/data/products/82/2.webp",
+        "https://i.dummyjson.com/data/products/82/3.jpg",
+        "https://i.dummyjson.com/data/products/82/4.jpg",
+        "https://i.dummyjson.com/data/products/82/thumbnail.jpg"
       ]
     },
     {
@@ -1508,13 +1515,13 @@
       "stock": 115,
       "brand": "mastar watch",
       "category": "sunglasses",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFaXGx3ryipVoqBZfYZuUBs05CaOaCN0PvKg&s",
+      "thumbnail": "https://i.dummyjson.com/data/products/83/thumbnail.jpg",
       "images": [
-        "https://vseyewear.com/wp-content/uploads/2020/04/GRAVITY-BLACKCRYSTAL.jpg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwhWTiqHqQno_1qCmIbJquGzuBPkHUyDdtiA&s",
-        "https://admin.hyperce.io/assets/thumbnail_71_preview.jpg?w=800",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR62u75fNBQLP4qkzrqdmT5GUVUyXkqbGtI_g&s",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCuVtl1-9pWdVx_cOc9-1n49OE_oqQ8wcenQ&s"
+        "https://i.dummyjson.com/data/products/83/1.jpg",
+        "https://i.dummyjson.com/data/products/83/2.jpg",
+        "https://i.dummyjson.com/data/products/83/3.jpg",
+        "https://i.dummyjson.com/data/products/83/4.jpg",
+        "https://i.dummyjson.com/data/products/83/thumbnail.jpg"
       ]
     },
     {
@@ -1527,13 +1534,11 @@
       "stock": 64,
       "brand": "mastar watch",
       "category": "sunglasses",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3_HP-5vhU5xjxWskfk3MuAmlwgtuj1PJskw&s",
+      "thumbnail": "https://i.dummyjson.com/data/products/84/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/41Kqn6At3hL.AC_UY1100_DpWeblab.jpg",
-        "https://5.imimg.com/data5/SELLER/Default/2021/1/ML/VY/SX/121816202/men-square-sunglasses.jpg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYFP2ohyB6M9KolwHN6V4NrElHEid5NONOuixLK2aOCQ&s",
-        "https://assets.ajio.com/medias/sys_master/root/20220519/pV4b/6285a970aeb26921afa45f5f/-473Wx593H-469218121-black-MODEL2.jpg"
-
+        "https://i.dummyjson.com/data/products/84/1.jpg",
+        "https://i.dummyjson.com/data/products/84/2.jpg",
+        "https://i.dummyjson.com/data/products/84/thumbnail.jpg"
       ]
     },
     {
@@ -1546,11 +1551,11 @@
       "stock": 92,
       "brand": "LouisWill",
       "category": "sunglasses",
-      "thumbnail": "https://img.lazcdn.com/g/p/e72b960212263344c1b518ad6368a052.jpg_240x240q80.jpg_.webp",
+      "thumbnail": "https://i.dummyjson.com/data/products/85/thumbnail.jpg",
       "images": [
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWFqa2yvM7L3SyiKKClYOe9mTI8ON74qCoig&s",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGLyLUwELlXo6S7FSGsFrHaCjt3tloB8XASyOC_PojDg&s",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDWOCQD-RS48Th90UDNA7zpgE0jnuqh7Iqyg&s"
+        "https://i.dummyjson.com/data/products/85/1.jpg",
+        "https://i.dummyjson.com/data/products/85/2.jpg",
+        "https://i.dummyjson.com/data/products/85/thumbnail.jpg"
       ]
     },
     {
@@ -1563,13 +1568,13 @@
       "stock": 22,
       "brand": "Car Aux",
       "category": "automotive",
-      "thumbnail": "https://m.media-amazon.com/images/I/61Ny++POyfL.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/86/thumbnail.jpg",
       "images": [
-        "https://img.fruugo.com/product/1/00/175261001_max.jpg",
-        "https://m.media-amazon.com/images/I/61EucwtXGtL.jpg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1tX7QZa_N_SshTGoq7AgJYiBqwdhFaa-Lsf2x-DX5pg&s",
-        "https://www.promotionalwears.com/image/cache/catalog/data/Electronics/Car-Wireless-Bluetooth-Receiver-Adapter1-750x750.jpg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_4q-uPjhM3j51P8dMiEOb18IPGmSswj4yjQ&s"
+        "https://i.dummyjson.com/data/products/86/1.jpg",
+        "https://i.dummyjson.com/data/products/86/2.webp",
+        "https://i.dummyjson.com/data/products/86/3.jpg",
+        "https://i.dummyjson.com/data/products/86/4.jpg",
+        "https://i.dummyjson.com/data/products/86/thumbnail.jpg"
       ]
     },
     {
@@ -1582,13 +1587,13 @@
       "stock": 37,
       "brand": "W1209 DC12V",
       "category": "automotive",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGC1SFboRSIMVhwxbFukWYaj4OXRRY8l46haB0nZdOtg&s",
+      "thumbnail": "https://i.dummyjson.com/data/products/87/thumbnail.jpg",
       "images": [
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH0XG9OQbw-0rfuDiMYG0FH16QCYmZakuIO3a2wbTWww&s",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9mYuZwQoi_KrGglFqYTrSt9TbRIaGhoGTBg&s",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQui0BK3a1F0EiBKLyW7bmpPsnlCKQ3f7Ghpw&s",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjrlq1_ELxptW519p5lHoNquhYtMTpUdQ7w&s",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5tk3Xf-xwGZRTMzdzQ0mHuyx2kx7tlqfEQ&s"
+        "https://i.dummyjson.com/data/products/87/1.jpg",
+        "https://i.dummyjson.com/data/products/87/2.jpg",
+        "https://i.dummyjson.com/data/products/87/3.jpg",
+        "https://i.dummyjson.com/data/products/87/4.jpg",
+        "https://i.dummyjson.com/data/products/87/thumbnail.jpg"
       ]
     },
     {
@@ -1601,12 +1606,13 @@
       "stock": 42,
       "brand": "TC Reusable",
       "category": "automotive",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS6AMjYjddEm826Sru-fDWI0w4l8lZID-r6V9-FIYLmg&s",
+      "thumbnail": "https://i.dummyjson.com/data/products/88/thumbnail.jpg",
       "images": [
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToItFaLWmBHq2ht2aOHmJZUWUgizYW07ECC1GLP3Cvaw&s",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1JmLRdTF9COT8IX4DsZIITlkCVHLdxhKT9x2ZlyJ4A&s",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8T6azojvsbd2Fi11GOFhiOhCzg_WUclhUfA&s",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6c0oQE97h4gvpXoe7tRo9CZdrYOkb2SNeMw&s"
+        "https://i.dummyjson.com/data/products/88/1.jpg",
+        "https://i.dummyjson.com/data/products/88/2.jpg",
+        "https://i.dummyjson.com/data/products/88/3.jpg",
+        "https://i.dummyjson.com/data/products/88/4.webp",
+        "https://i.dummyjson.com/data/products/88/thumbnail.jpg"
       ]
     },
     {
@@ -1619,13 +1625,13 @@
       "stock": 79,
       "brand": "TC Reusable",
       "category": "automotive",
-      "thumbnail": "https://5.imimg.com/data5/IO/EV/MY-24035114/qualcomm-certified-quick-charge-qc-3-0-dual-port-rapid-car-charger-500x500.jpg",
+      "thumbnail": "https://i.dummyjson.com/data/products/89/thumbnail.jpg",
       "images": [
-             "https://m.media-amazon.com/images/I/51OLDgPozoL.jpg",
-             "https://m.media-amazon.com/images/I/61BN3JZt7KL.AC_UF1000,1000_QL80.jpg",
-             "https://5.imimg.com/data5/IO/EV/MY-24035114/qualcomm-certified-quick-charge-qc-3-0-dual-port-rapid-car-charger-500x500.jpg",
-             "https://5.imimg.com/data5/IO/EV/MY-24035114/qualcomm-certified-quick-charge-qc-3-0-dual-port-rapid-car-charger-500x500.jpg"
-
+        "https://i.dummyjson.com/data/products/89/1.jpg",
+        "https://i.dummyjson.com/data/products/89/2.jpg",
+        "https://i.dummyjson.com/data/products/89/3.jpg",
+        "https://i.dummyjson.com/data/products/89/4.jpg",
+        "https://i.dummyjson.com/data/products/89/thumbnail.jpg"
       ]
     },
     {
@@ -1638,15 +1644,15 @@
       "stock": 63,
       "brand": "Neon LED Light",
       "category": "automotive",
-      "thumbnail": "https://img.wonderhowto.com/img/62/04/63483487394621/0/make-your-night-bike-glow-dark-with-phosphorescent-paint.w1456.jpg",
-
+      "thumbnail": "https://i.dummyjson.com/data/products/90/thumbnail.jpg",
       "images": [
-        "https://m.media-amazon.com/images/I/510JCbMpwqL.AC_UF894,1000_QL80.jpg",
-        "https://i.pinimg.com/474x/9a/5a/1a/9a5a1aff87022c48e7a752e30cc34001.jpg",
-        "https://i.pinimg.com/originals/b1/ee/d8/b1eed8dc9f3bff15a3e56420f514b262.jpg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjgH7MF60gtR5EkdfgRa3OGifddvY1cYkj2PAIEB28ow&s",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjgH7MF60gtR5EkdfgRa3OGifddvY1cYkj2PAIEB28ow&s"]
-      },
+        "https://i.dummyjson.com/data/products/90/1.jpg",
+        "https://i.dummyjson.com/data/products/90/2.jpg",
+        "https://i.dummyjson.com/data/products/90/3.jpg",
+        "https://i.dummyjson.com/data/products/90/4.jpg",
+        "https://i.dummyjson.com/data/products/90/thumbnail.jpg"
+      ]
+    },
     {
       "id": 91,
       "title": "Black Motorbike",
