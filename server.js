@@ -5,6 +5,7 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 const session = require('express-session');
 const passport = require('passport');
+const { MongoClient, ServerApiVersion } = require('mongodb');
 const LocalStrategy = require('passport-local').Strategy;
 const crypto = require('crypto');
 const jwt = require('jsonwebtoken');
@@ -27,15 +28,6 @@ const { env } = require('process');
 
 
   // send mail with defined transport object
-
-
-  
-
-
-
-
-
-
 
 // Webhook
 

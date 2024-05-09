@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aff33fee.css",
+    "main.js": "/static/js/main.3b5bf92c.js",
+    "static/js/787.c875205c.chunk.js": "/static/js/787.c875205c.chunk.js",
+    "static/media/opportunity.png": "/static/media/opportunity.b92e396597462eccce89.png",
+    "static/media/customer-service.png": "/static/media/customer-service.2256ed920a3ca01f28bf.png",
+    "static/media/teamwork.png": "/static/media/teamwork.cc3f3e2374f6ee5d357a.png",
+    "static/media/product.png": "/static/media/product.cc00930edb347e02268c.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.aff33fee.css.map": "/static/css/main.aff33fee.css.map",
+    "main.3b5bf92c.js.map": "/static/js/main.3b5bf92c.js.map",
+    "787.c875205c.chunk.js.map": "/static/js/787.c875205c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aff33fee.css",
+    "static/js/main.3b5bf92c.js"
+  ]
+}
