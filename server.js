@@ -160,11 +160,11 @@ main().catch((err) => console.log(err));
 
 async function main() {
   await mongoose.connect(process.env.MONGODB_URL);
-
+ console.log('db ok')
 }
 
 server.listen(process.env.PORT, () => {
-
+ console.log('server running');
 });
 
 
