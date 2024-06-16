@@ -120,6 +120,7 @@ exports.updateProduct = async (req, res) => {
 
           
           await transporter.sendMail(mailOptions);
+          console.log("mail sent");
 
           // Clear userIdsFN
           product.userIdsFN = [];
@@ -129,6 +130,10 @@ exports.updateProduct = async (req, res) => {
           for (let index = 0; index < userIdsForCart.length; index++) {
             const cart = new Cart({quantity:1,user:userIdsForCart[index],product:product._id});            
             await cart.save();
+            console.log("added to cart");
+
+
+            
           }
           product.userIdsFA = [];
 
