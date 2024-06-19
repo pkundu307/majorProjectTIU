@@ -1,8 +1,8 @@
 const { Product } = require("../model/Product");
 const { User } = require("../model/User");
-const {Cart} = require("../model/Cart")
+const { Cart } = require("../model/Cart")
 const nodemailer = require('nodemailer');
- 
+
 
 exports.createProduct = async (req, res) => {
   // this product we have to get from API body
@@ -78,7 +78,7 @@ exports.updateProduct = async (req, res) => {
   try {
     // Find the product by ID
     const product = await Product.findById(id);
-    
+
     if (!product) {
       return res.status(404).json({ message: 'Product not found' });
     }
@@ -95,14 +95,14 @@ exports.updateProduct = async (req, res) => {
         const userIds = product.userIdsFN;
         const userIdsForAssign = product.userIdsFA;
         const users = await User.find({ _id: { $in: userIds } });
-        const userForCart = await  User.find({ _id: { $in: userIdsForAssign } });
+        const userForCart = await User.find({ _id: { $in: userIdsForAssign } });
         const userIdsForCart = userForCart.map(user => user._id)
         const emails = users.map(user => user.email);
         console.log(emails);
-        console.log(userIdsForCart,'fa');
+        console.log(userIdsForCart, 'fa');
 
         if (emails.length > 0) {
-        //   // Configure nodemailer
+          //   // Configure nodemailer
           let transporter = nodemailer.createTransport({
             service: "gmail",
             auth: {
@@ -122,6 +122,9 @@ exports.updateProduct = async (req, res) => {
                 <h2 style="text-align: center; color: #4CAF50;">Good News!</h2>
                 <p>Dear Customer,</p>
                 <p>We are excited to inform you that the product <strong>${product.title}</strong> is back in stock.</p>
+                   <div style="text-align: center;">
+                       <img src="${product.images[0]}" alt="${product.title}" style="max-width: 100%; height: auto; border-radius: 10px;">
+                     </div>
                 <p>Don't miss out! Click the link below to purchase it now:</p>
                 <a href="https://major-project-tiu.vercel.app" style="display: inline-block; padding: 10px 20px; color: white; background-color: #4CAF50; border-radius: 5px; text-decoration: none;">Buy Now</a>
                 <p style="margin-top: 20px;">Thank you for shopping with us!</p>
@@ -131,10 +134,10 @@ exports.updateProduct = async (req, res) => {
               </div>
             </div>
           `,
-          text: `The product ${product.title} is back in stock. Visit https://major-project-tiu.vercel.app to purchase it now. Sent on: ${timestamp}`
+            text: `The product ${product.title} is back in stock. Visit https://major-project-tiu.vercel.app to purchase it now. Sent on: ${timestamp}`
           };
 
-          
+
           await transporter.sendMail(mailOptions);
           res.status(200).json("mail sent");
 
@@ -142,16 +145,16 @@ exports.updateProduct = async (req, res) => {
           product.userIdsFN = [];
           await product.save();
         }
-        if(userIdsForCart.length>0){
+        if (userIdsForCart.length > 0) {
           for (let index = 0; index < userIdsForCart.length; index++) {
-            const cart = new Cart({quantity:1,user:userIdsForCart[index],product:product._id});            
+            const cart = new Cart({ quantity: 1, user: userIdsForCart[index], product: product._id });
             await cart.save();
-            const user=User.findById(userForCart(index))
+            const user = User.findById(userForCart(index))
             console.log(user);
             console.log("added to cart");
 
 
-            
+
           }
           product.userIdsFA = [];
 
