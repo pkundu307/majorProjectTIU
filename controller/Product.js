@@ -110,12 +110,28 @@ exports.updateProduct = async (req, res) => {
               pass: "wvco qefp awgh gbrj",
             },
           });
+          const timestamp = new Date().toLocaleString();
 
           let mailOptions = {
             from: "pkundu307@gmail.com",
             to: emails,
             subject: 'Product Back in Stock',
-            text: `The product ${product.title} is back in stock.`,
+            html: `
+            <div style="font-family: Arial, sans-serif; color: #333;">
+              <div style="max-width: 600px; margin: auto; padding: 20px; border: 1px solid #ccc; border-radius: 10px;">
+                <h2 style="text-align: center; color: #4CAF50;">Good News!</h2>
+                <p>Dear Customer,</p>
+                <p>We are excited to inform you that the product <strong>${product.title}</strong> is back in stock.</p>
+                <p>Don't miss out! Click the link below to purchase it now:</p>
+                <a href="https://major-project-tiu.vercel.app" style="display: inline-block; padding: 10px 20px; color: white; background-color: #4CAF50; border-radius: 5px; text-decoration: none;">Buy Now</a>
+                <p style="margin-top: 20px;">Thank you for shopping with us!</p>
+                <p>Best regards,<br>E-Commerce Team</p>
+                <hr>
+                <p style="font-size: 0.9em; color: #888;">Sent on: ${timestamp}</p>
+              </div>
+            </div>
+          `,
+          text: `The product ${product.title} is back in stock. Visit https://major-project-tiu.vercel.app to purchase it now. Sent on: ${timestamp}`
           };
 
           
