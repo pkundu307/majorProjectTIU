@@ -120,7 +120,7 @@ exports.updateProduct = async (req, res) => {
 
           
           await transporter.sendMail(mailOptions);
-          console.log("mail sent");
+          res.status(200).json("mail sent");
 
           // Clear userIdsFN
           product.userIdsFN = [];
