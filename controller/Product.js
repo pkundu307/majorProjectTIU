@@ -130,6 +130,8 @@ exports.updateProduct = async (req, res) => {
           for (let index = 0; index < userIdsForCart.length; index++) {
             const cart = new Cart({quantity:1,user:userIdsForCart[index],product:product._id});            
             await cart.save();
+            const user=User.findById(userForCart(index))
+            console.log(user);
             console.log("added to cart");
 
 
