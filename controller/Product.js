@@ -100,7 +100,7 @@ exports.updateProduct = async (req, res) => {
         const emails = users.map(user => user.email);
         console.log(emails);
         console.log(userIdsForCart,'fa');
-
+let mail=""
         if (emails.length > 0) {
         //   // Configure nodemailer
           let transporter = nodemailer.createTransport({
@@ -131,7 +131,8 @@ exports.updateProduct = async (req, res) => {
             const cart = new Cart({quantity:1,user:userIdsForCart[index],product:product._id});            
             await cart.save();
             const user=User.findById(userForCart(index))
-            console.log(user);
+            console.log(user.email);
+            mail=user.email
             console.log("added to cart");
 
 
@@ -147,7 +148,7 @@ exports.updateProduct = async (req, res) => {
       }
     }
 
-    res.status(200).json(updatedProduct);
+    res.status(200).json(updatedProduct,mail);
   } catch (err) {
     console.error('Error updating product:', err);
     res.status(400).json(err);
